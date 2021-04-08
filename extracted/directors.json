@@ -1,0 +1,2194 @@
+[
+  {
+    "id": 1,
+    "name": "Ang Lee"
+  },
+  {
+    "id": 2,
+    "name": "Andrey Zvyagintsev"
+  },
+  {
+    "id": 3,
+    "name": "Terry Gilliam"
+  },
+  {
+    "id": 4,
+    "name": "Takeshi Kitano"
+  },
+  {
+    "id": 5,
+    "name": "Joseph Sargent"
+  },
+  {
+    "id": 6,
+    "name": "Mathieu Kassovitz"
+  },
+  {
+    "id": 7,
+    "name": "Adam McKay"
+  },
+  {
+    "id": 8,
+    "name": "Daniel Monzón"
+  },
+  {
+    "id": 9,
+    "name": "Georges Franju"
+  },
+  {
+    "id": 10,
+    "name": "Katsuhiro Ôtomo"
+  },
+  {
+    "id": 11,
+    "name": "Michel Gondry"
+  },
+  {
+    "id": 12,
+    "name": "Paul Verhoeven"
+  },
+  {
+    "id": 13,
+    "name": "Alain Resnais"
+  },
+  {
+    "id": 14,
+    "name": "Ron Clements"
+  },
+  {
+    "id": 15,
+    "name": "Gavin O'Connor"
+  },
+  {
+    "id": 16,
+    "name": "Matthew Warchus"
+  },
+  {
+    "id": 17,
+    "name": "Richard Curtis"
+  },
+  {
+    "id": 18,
+    "name": "David Zucker"
+  },
+  {
+    "id": 19,
+    "name": "Xavier Dolan"
+  },
+  {
+    "id": 20,
+    "name": "Florian Henckel von Donnersmarck"
+  },
+  {
+    "id": 21,
+    "name": "José Padilha"
+  },
+  {
+    "id": 22,
+    "name": "Kinji Fukasaku"
+  },
+  {
+    "id": 23,
+    "name": "Oliver Hirschbiegel"
+  },
+  {
+    "id": 24,
+    "name": "Fred Zinnemann"
+  },
+  {
+    "id": 25,
+    "name": "Paul Thomas Anderson"
+  },
+  {
+    "id": 26,
+    "name": "Pierre Morel"
+  },
+  {
+    "id": 27,
+    "name": "Kenneth Lonergan"
+  },
+  {
+    "id": 28,
+    "name": "Susanne Bier"
+  },
+  {
+    "id": 29,
+    "name": "Bob Persichetti"
+  },
+  {
+    "id": 30,
+    "name": "Matt Ross"
+  },
+  {
+    "id": 31,
+    "name": "Masaki Kobayashi"
+  },
+  {
+    "id": 32,
+    "name": "Mel Gibson"
+  },
+  {
+    "id": 33,
+    "name": "Rob Reiner"
+  },
+  {
+    "id": 34,
+    "name": "Tigmanshu Dhulia"
+  },
+  {
+    "id": 35,
+    "name": "Christophe Barratier"
+  },
+  {
+    "id": 36,
+    "name": "Luis Buñuel"
+  },
+  {
+    "id": 37,
+    "name": "Kevin Costner"
+  },
+  {
+    "id": 38,
+    "name": "Ivan Reitman"
+  },
+  {
+    "id": 39,
+    "name": "Howard Hawks"
+  },
+  {
+    "id": 40,
+    "name": "Richard Donner"
+  },
+  {
+    "id": 41,
+    "name": "Cristian Mungiu"
+  },
+  {
+    "id": 42,
+    "name": "Sergio Leone"
+  },
+  {
+    "id": 43,
+    "name": "Vittorio De Sica"
+  },
+  {
+    "id": 44,
+    "name": "Rian Johnson"
+  },
+  {
+    "id": 45,
+    "name": "Fernando Meirelles"
+  },
+  {
+    "id": 46,
+    "name": "Satoshi Kon"
+  },
+  {
+    "id": 47,
+    "name": "Levent Semerci"
+  },
+  {
+    "id": 48,
+    "name": "Yasujirô Ozu"
+  },
+  {
+    "id": 49,
+    "name": "Jean-Jacques Annaud"
+  },
+  {
+    "id": 50,
+    "name": "Richard Linklater"
+  },
+  {
+    "id": 51,
+    "name": "Robert Benton"
+  },
+  {
+    "id": 52,
+    "name": "Dean DeBlois"
+  },
+  {
+    "id": 53,
+    "name": "Rajkumar Hirani"
+  },
+  {
+    "id": 54,
+    "name": "Joseph Kosinski"
+  },
+  {
+    "id": 55,
+    "name": "Wes Anderson"
+  },
+  {
+    "id": 56,
+    "name": "Bennett Miller"
+  },
+  {
+    "id": 57,
+    "name": "James Algar"
+  },
+  {
+    "id": 58,
+    "name": "Josh Cooley"
+  },
+  {
+    "id": 59,
+    "name": "Richard Kelly"
+  },
+  {
+    "id": 60,
+    "name": "Thomas Vinterberg"
+  },
+  {
+    "id": 61,
+    "name": "Robert Aldrich"
+  },
+  {
+    "id": 62,
+    "name": "Nitesh Tiwari"
+  },
+  {
+    "id": 63,
+    "name": "Todd Solondz"
+  },
+  {
+    "id": 64,
+    "name": "Andrew Davis"
+  },
+  {
+    "id": 65,
+    "name": "Wolfgang Becker"
+  },
+  {
+    "id": 66,
+    "name": "Peter Jackson"
+  },
+  {
+    "id": 67,
+    "name": "Hayao Miyazaki"
+  },
+  {
+    "id": 68,
+    "name": "Clyde Bruckman"
+  },
+  {
+    "id": 69,
+    "name": "Joel Schumacher"
+  },
+  {
+    "id": 70,
+    "name": "Naoko Yamada"
+  },
+  {
+    "id": 71,
+    "name": "Ashutosh Gowariker"
+  },
+  {
+    "id": 72,
+    "name": "Brian De Palma"
+  },
+  {
+    "id": 73,
+    "name": "Nikkhil Advani"
+  },
+  {
+    "id": 74,
+    "name": "Harold Ramis"
+  },
+  {
+    "id": 75,
+    "name": "Raja Menon"
+  },
+  {
+    "id": 76,
+    "name": "Yoshifumi Kondô"
+  },
+  {
+    "id": 77,
+    "name": "Sudha Kongara"
+  },
+  {
+    "id": 78,
+    "name": "Walter Salles"
+  },
+  {
+    "id": 79,
+    "name": "Stanley Kubrick"
+  },
+  {
+    "id": 80,
+    "name": "Joseph L. Mankiewicz"
+  },
+  {
+    "id": 81,
+    "name": "Ömer Faruk Sorak"
+  },
+  {
+    "id": 82,
+    "name": "Michael Cimino"
+  },
+  {
+    "id": 83,
+    "name": "Anthony Harvey"
+  },
+  {
+    "id": 84,
+    "name": "Bruce Robinson"
+  },
+  {
+    "id": 85,
+    "name": "Mike Newell"
+  },
+  {
+    "id": 86,
+    "name": "Denis Villeneuve"
+  },
+  {
+    "id": 87,
+    "name": "Don Siegel"
+  },
+  {
+    "id": 88,
+    "name": "Ken Loach"
+  },
+  {
+    "id": 89,
+    "name": "Kevin Reynolds"
+  },
+  {
+    "id": 90,
+    "name": "Bob Gale"
+  },
+  {
+    "id": 91,
+    "name": "Aneesh Chaganty"
+  },
+  {
+    "id": 92,
+    "name": "Henry Koster"
+  },
+  {
+    "id": 93,
+    "name": "Martin Campbell"
+  },
+  {
+    "id": 94,
+    "name": "Norman Jewison"
+  },
+  {
+    "id": 95,
+    "name": "George Lucas"
+  },
+  {
+    "id": 96,
+    "name": "Sidney Lumet"
+  },
+  {
+    "id": 97,
+    "name": "Jeethu Joseph"
+  },
+  {
+    "id": 98,
+    "name": "Jean Renoir"
+  },
+  {
+    "id": 99,
+    "name": "John Boorman"
+  },
+  {
+    "id": 100,
+    "name": "Yash Chopra"
+  },
+  {
+    "id": 101,
+    "name": "Jacques Audiard"
+  },
+  {
+    "id": 102,
+    "name": "Sebastian Schipper"
+  },
+  {
+    "id": 103,
+    "name": "Imtiaz Ali"
+  },
+  {
+    "id": 104,
+    "name": "Tom Hooper"
+  },
+  {
+    "id": 105,
+    "name": "Paolo Genovese"
+  },
+  {
+    "id": 106,
+    "name": "Gareth Edwards"
+  },
+  {
+    "id": 107,
+    "name": "Anton Corbijn"
+  },
+  {
+    "id": 108,
+    "name": "Robert Clouse"
+  },
+  {
+    "id": 109,
+    "name": "Tomas Alfredson"
+  },
+  {
+    "id": 110,
+    "name": "James Whale"
+  },
+  {
+    "id": 111,
+    "name": "Sujoy Ghosh"
+  },
+  {
+    "id": 112,
+    "name": "Mel Brooks"
+  },
+  {
+    "id": 113,
+    "name": "Krzysztof Kieslowski"
+  },
+  {
+    "id": 114,
+    "name": "Garth Davis"
+  },
+  {
+    "id": 115,
+    "name": "William Wyler"
+  },
+  {
+    "id": 116,
+    "name": "Ted Demme"
+  },
+  {
+    "id": 117,
+    "name": "James L. Brooks"
+  },
+  {
+    "id": 118,
+    "name": "Richard Lester"
+  },
+  {
+    "id": 119,
+    "name": "Mehmet Ada Öztekin"
+  },
+  {
+    "id": 120,
+    "name": "Michael Mann"
+  },
+  {
+    "id": 121,
+    "name": "Hideaki Anno"
+  },
+  {
+    "id": 122,
+    "name": "Wilson Yip"
+  },
+  {
+    "id": 123,
+    "name": "Meghna Gulzar"
+  },
+  {
+    "id": 124,
+    "name": "Terrence Malick"
+  },
+  {
+    "id": 125,
+    "name": "Yimou Zhang"
+  },
+  {
+    "id": 126,
+    "name": "Richard Schenkman"
+  },
+  {
+    "id": 127,
+    "name": "Todd Phillips"
+  },
+  {
+    "id": 128,
+    "name": "Yoshiaki Kawajiri"
+  },
+  {
+    "id": 129,
+    "name": "Cecil B. DeMille"
+  },
+  {
+    "id": 130,
+    "name": "Martin Rosen"
+  },
+  {
+    "id": 131,
+    "name": "Aditya Dhar"
+  },
+  {
+    "id": 132,
+    "name": "Anurag Basu"
+  },
+  {
+    "id": 133,
+    "name": "Gabriele Muccino"
+  },
+  {
+    "id": 134,
+    "name": "Aaron Sorkin"
+  },
+  {
+    "id": 135,
+    "name": "Tom Tykwer"
+  },
+  {
+    "id": 136,
+    "name": "Hal Ashby"
+  },
+  {
+    "id": 137,
+    "name": "Kar-Wai Wong"
+  },
+  {
+    "id": 138,
+    "name": "Peter Weir"
+  },
+  {
+    "id": 139,
+    "name": "Sanjay Leela Bhansali"
+  },
+  {
+    "id": 140,
+    "name": "Irvin Kershner"
+  },
+  {
+    "id": 141,
+    "name": "Anthony Russo"
+  },
+  {
+    "id": 142,
+    "name": "Jim Abrahams"
+  },
+  {
+    "id": 143,
+    "name": "Spike Jonze"
+  },
+  {
+    "id": 144,
+    "name": "Jae-young Kwak"
+  },
+  {
+    "id": 145,
+    "name": "David Mackenzie"
+  },
+  {
+    "id": 146,
+    "name": "Jim Sheridan"
+  },
+  {
+    "id": 147,
+    "name": "Leo McCarey"
+  },
+  {
+    "id": 148,
+    "name": "Vikas Bahl"
+  },
+  {
+    "id": 149,
+    "name": "Hiromasa Yonebayashi"
+  },
+  {
+    "id": 150,
+    "name": "John Lee Hancock"
+  },
+  {
+    "id": 151,
+    "name": "John G. Avildsen"
+  },
+  {
+    "id": 152,
+    "name": "Wolfgang Petersen"
+  },
+  {
+    "id": 153,
+    "name": "Pete Docter"
+  },
+  {
+    "id": 154,
+    "name": "Neeraj Pandey"
+  },
+  {
+    "id": 155,
+    "name": "Stuart Rosenberg"
+  },
+  {
+    "id": 156,
+    "name": "Otto Preminger"
+  },
+  {
+    "id": 157,
+    "name": "Robert Stevenson"
+  },
+  {
+    "id": 158,
+    "name": "Terry Jones"
+  },
+  {
+    "id": 159,
+    "name": "Edgar Wright"
+  },
+  {
+    "id": 160,
+    "name": "George Sluizer"
+  },
+  {
+    "id": 161,
+    "name": "Charlie Kaufman"
+  },
+  {
+    "id": 162,
+    "name": "John Schlesinger"
+  },
+  {
+    "id": 163,
+    "name": "Kabir Khan"
+  },
+  {
+    "id": 164,
+    "name": "George A. Romero"
+  },
+  {
+    "id": 165,
+    "name": "Jessie Nelson"
+  },
+  {
+    "id": 166,
+    "name": "Sam Peckinpah"
+  },
+  {
+    "id": 167,
+    "name": "Alejandro Jodorowsky"
+  },
+  {
+    "id": 168,
+    "name": "Roland Joffé"
+  },
+  {
+    "id": 169,
+    "name": "Shimit Amin"
+  },
+  {
+    "id": 170,
+    "name": "James Cameron"
+  },
+  {
+    "id": 171,
+    "name": "Shane Meadows"
+  },
+  {
+    "id": 172,
+    "name": "Kaige Chen"
+  },
+  {
+    "id": 173,
+    "name": "Anurag Kashyap"
+  },
+  {
+    "id": 174,
+    "name": "Joel Coen"
+  },
+  {
+    "id": 175,
+    "name": "Damián Szifron"
+  },
+  {
+    "id": 176,
+    "name": "Michel Hazanavicius"
+  },
+  {
+    "id": 177,
+    "name": "Hong-jin Na"
+  },
+  {
+    "id": 178,
+    "name": "Frank Capra"
+  },
+  {
+    "id": 179,
+    "name": "Dorota Kobiela"
+  },
+  {
+    "id": 180,
+    "name": "F. Gary Gray"
+  },
+  {
+    "id": 181,
+    "name": "Peter Bogdanovich"
+  },
+  {
+    "id": 182,
+    "name": "Mark Herman"
+  },
+  {
+    "id": 183,
+    "name": "Ernst Lubitsch"
+  },
+  {
+    "id": 184,
+    "name": "Chris Columbus"
+  },
+  {
+    "id": 185,
+    "name": "David Lynch"
+  },
+  {
+    "id": 186,
+    "name": "David Ayer"
+  },
+  {
+    "id": 187,
+    "name": "J.J. Abrams"
+  },
+  {
+    "id": 188,
+    "name": "David Mickey Evans"
+  },
+  {
+    "id": 189,
+    "name": "Ericson Core"
+  },
+  {
+    "id": 190,
+    "name": "Buster Keaton"
+  },
+  {
+    "id": 191,
+    "name": "Mukesh Chhabra"
+  },
+  {
+    "id": 192,
+    "name": "Alexander Mackendrick"
+  },
+  {
+    "id": 193,
+    "name": "Quentin Tarantino"
+  },
+  {
+    "id": 194,
+    "name": "Merian C. Cooper"
+  },
+  {
+    "id": 195,
+    "name": "Zack Snyder"
+  },
+  {
+    "id": 196,
+    "name": "Jon Favreau"
+  },
+  {
+    "id": 197,
+    "name": "Sergio Pablos"
+  },
+  {
+    "id": 198,
+    "name": "Francis Ford Coppola"
+  },
+  {
+    "id": 199,
+    "name": "Tarsem Singh"
+  },
+  {
+    "id": 200,
+    "name": "Adam Elliot"
+  },
+  {
+    "id": 201,
+    "name": "Shûsuke Kaneko"
+  },
+  {
+    "id": 202,
+    "name": "Marc Forster"
+  },
+  {
+    "id": 203,
+    "name": "Christopher McQuarrie"
+  },
+  {
+    "id": 204,
+    "name": "Nishikant Kamat"
+  },
+  {
+    "id": 205,
+    "name": "Jon Avnet"
+  },
+  {
+    "id": 206,
+    "name": "Woody Allen"
+  },
+  {
+    "id": 207,
+    "name": "Mike Judge"
+  },
+  {
+    "id": 208,
+    "name": "Olivier Nakache"
+  },
+  {
+    "id": 209,
+    "name": "James Simone"
+  },
+  {
+    "id": 210,
+    "name": "Tomm Moore"
+  },
+  {
+    "id": 211,
+    "name": "Francis Veber"
+  },
+  {
+    "id": 212,
+    "name": "Noah Baumbach"
+  },
+  {
+    "id": 213,
+    "name": "Richard Marquand"
+  },
+  {
+    "id": 214,
+    "name": "Tod Browning"
+  },
+  {
+    "id": 215,
+    "name": "Mamoru Oshii"
+  },
+  {
+    "id": 216,
+    "name": "Matthew Vaughn"
+  },
+  {
+    "id": 217,
+    "name": "Robert Wiene"
+  },
+  {
+    "id": 218,
+    "name": "Jonathan Levine"
+  },
+  {
+    "id": 219,
+    "name": "Trey Parker"
+  },
+  {
+    "id": 220,
+    "name": "Ted Kotcheff"
+  },
+  {
+    "id": 221,
+    "name": "Guy Ritchie"
+  },
+  {
+    "id": 222,
+    "name": "Penny Marshall"
+  },
+  {
+    "id": 223,
+    "name": "Gareth Evans"
+  },
+  {
+    "id": 224,
+    "name": "Sean Baker"
+  },
+  {
+    "id": 225,
+    "name": "Majid Majidi"
+  },
+  {
+    "id": 226,
+    "name": "Farhan Akhtar"
+  },
+  {
+    "id": 227,
+    "name": "Ingmar Bergman"
+  },
+  {
+    "id": 228,
+    "name": "James Frawley"
+  },
+  {
+    "id": 229,
+    "name": "Henry Selick"
+  },
+  {
+    "id": 230,
+    "name": "Marc Webb"
+  },
+  {
+    "id": 231,
+    "name": "Vikramaditya Motwane"
+  },
+  {
+    "id": 232,
+    "name": "James Mangold"
+  },
+  {
+    "id": 233,
+    "name": "Darren Aronofsky"
+  },
+  {
+    "id": 234,
+    "name": "Gary Trousdale"
+  },
+  {
+    "id": 235,
+    "name": "John Singleton"
+  },
+  {
+    "id": 236,
+    "name": "Priyadarshan"
+  },
+  {
+    "id": 237,
+    "name": "Terence Young"
+  },
+  {
+    "id": 238,
+    "name": "Alexander Payne"
+  },
+  {
+    "id": 239,
+    "name": "Christopher Miller"
+  },
+  {
+    "id": 240,
+    "name": "Todd Haynes"
+  },
+  {
+    "id": 241,
+    "name": "Stephen Frears"
+  },
+  {
+    "id": 242,
+    "name": "Morten Tyldum"
+  },
+  {
+    "id": 243,
+    "name": "John Woo"
+  },
+  {
+    "id": 244,
+    "name": "Hirokazu Koreeda"
+  },
+  {
+    "id": 245,
+    "name": "Karan Johar"
+  },
+  {
+    "id": 246,
+    "name": "Rahi Anil Barve"
+  },
+  {
+    "id": 247,
+    "name": "Guillermo del Toro"
+  },
+  {
+    "id": 248,
+    "name": "Sam Wood"
+  },
+  {
+    "id": 249,
+    "name": "Joss Whedon"
+  },
+  {
+    "id": 250,
+    "name": "Matt Reeves"
+  },
+  {
+    "id": 251,
+    "name": "Stephen Daldry"
+  },
+  {
+    "id": 252,
+    "name": "Prashanth Neel"
+  },
+  {
+    "id": 253,
+    "name": "Clint Eastwood"
+  },
+  {
+    "id": 254,
+    "name": "George Miller"
+  },
+  {
+    "id": 255,
+    "name": "Dennis Gansel"
+  },
+  {
+    "id": 256,
+    "name": "Mark Rydell"
+  },
+  {
+    "id": 257,
+    "name": "Jaco Van Dormael"
+  },
+  {
+    "id": 258,
+    "name": "Fritz Lang"
+  },
+  {
+    "id": 259,
+    "name": "Gregory Hoblit"
+  },
+  {
+    "id": 260,
+    "name": "Tim Miller"
+  },
+  {
+    "id": 261,
+    "name": "Nuri Bilge Ceylan"
+  },
+  {
+    "id": 262,
+    "name": "James Wan"
+  },
+  {
+    "id": 263,
+    "name": "Nadine Labaki"
+  },
+  {
+    "id": 264,
+    "name": "Alex Garland"
+  },
+  {
+    "id": 265,
+    "name": "Paul Greengrass"
+  },
+  {
+    "id": 266,
+    "name": "George Roy Hill"
+  },
+  {
+    "id": 267,
+    "name": "Richard Attenborough"
+  },
+  {
+    "id": 268,
+    "name": "Antoine Fuqua"
+  },
+  {
+    "id": 269,
+    "name": "Alex Proyas"
+  },
+  {
+    "id": 270,
+    "name": "Alejandro Amenábar"
+  },
+  {
+    "id": 271,
+    "name": "Louis Malle"
+  },
+  {
+    "id": 272,
+    "name": "S.S. Rajamouli"
+  },
+  {
+    "id": 273,
+    "name": "Bradley Cooper"
+  },
+  {
+    "id": 274,
+    "name": "Aditya Chopra"
+  },
+  {
+    "id": 275,
+    "name": "François Truffaut"
+  },
+  {
+    "id": 276,
+    "name": "Werner Herzog"
+  },
+  {
+    "id": 277,
+    "name": "Abhishek Chaubey"
+  },
+  {
+    "id": 278,
+    "name": "Kenneth Branagh"
+  },
+  {
+    "id": 279,
+    "name": "Curtis Hanson"
+  },
+  {
+    "id": 280,
+    "name": "Mamoru Hosoda"
+  },
+  {
+    "id": 281,
+    "name": "Michelangelo Antonioni"
+  },
+  {
+    "id": 282,
+    "name": "Brad Bird"
+  },
+  {
+    "id": 283,
+    "name": "Gayatri"
+  },
+  {
+    "id": 284,
+    "name": "Moustapha Akkad"
+  },
+  {
+    "id": 285,
+    "name": "Andrew Lau"
+  },
+  {
+    "id": 286,
+    "name": "Michael Radford"
+  },
+  {
+    "id": 287,
+    "name": "Bob Fosse"
+  },
+  {
+    "id": 288,
+    "name": "Mark Osborne"
+  },
+  {
+    "id": 289,
+    "name": "Stanley Donen"
+  },
+  {
+    "id": 290,
+    "name": "Nathan Greno"
+  },
+  {
+    "id": 291,
+    "name": "Peter Mullan"
+  },
+  {
+    "id": 292,
+    "name": "Tony Scott"
+  },
+  {
+    "id": 293,
+    "name": "Zoya Akhtar"
+  },
+  {
+    "id": 294,
+    "name": "Danny Boyle"
+  },
+  {
+    "id": 295,
+    "name": "Steve McQueen"
+  },
+  {
+    "id": 296,
+    "name": "Mel Stuart"
+  },
+  {
+    "id": 297,
+    "name": "Robert Mulligan"
+  },
+  {
+    "id": 298,
+    "name": "Ethan Coen"
+  },
+  {
+    "id": 299,
+    "name": "Fatih Akin"
+  },
+  {
+    "id": 300,
+    "name": "Destin Daniel Cretton"
+  },
+  {
+    "id": 301,
+    "name": "Tate Taylor"
+  },
+  {
+    "id": 302,
+    "name": "Taylor Sheridan"
+  },
+  {
+    "id": 303,
+    "name": "Tony Bancroft"
+  },
+  {
+    "id": 304,
+    "name": "Jonathan Demme"
+  },
+  {
+    "id": 305,
+    "name": "Kevin Macdonald"
+  },
+  {
+    "id": 306,
+    "name": "James McTeigue"
+  },
+  {
+    "id": 307,
+    "name": "Terry George"
+  },
+  {
+    "id": 308,
+    "name": "Sam Mendes"
+  },
+  {
+    "id": 309,
+    "name": "Rakeysh Omprakash Mehra"
+  },
+  {
+    "id": 310,
+    "name": "Bong Joon Ho"
+  },
+  {
+    "id": 311,
+    "name": "David Lean"
+  },
+  {
+    "id": 312,
+    "name": "Gore Verbinski"
+  },
+  {
+    "id": 313,
+    "name": "Nicolas Winding Refn"
+  },
+  {
+    "id": 314,
+    "name": "Robert De Niro"
+  },
+  {
+    "id": 315,
+    "name": "John Landis"
+  },
+  {
+    "id": 316,
+    "name": "Thomas Jahn"
+  },
+  {
+    "id": 317,
+    "name": "Sam Raimi"
+  },
+  {
+    "id": 318,
+    "name": "Nick Cassavetes"
+  },
+  {
+    "id": 319,
+    "name": "Jonathan Dayton"
+  },
+  {
+    "id": 320,
+    "name": "Taylor Hackford"
+  },
+  {
+    "id": 321,
+    "name": "Nicholas Meyer"
+  },
+  {
+    "id": 322,
+    "name": "Ritesh Batra"
+  },
+  {
+    "id": 323,
+    "name": "Joe Wright"
+  },
+  {
+    "id": 324,
+    "name": "Christopher Nolan"
+  },
+  {
+    "id": 325,
+    "name": "M. Night Shyamalan"
+  },
+  {
+    "id": 326,
+    "name": "Lukas Moodysson"
+  },
+  {
+    "id": 327,
+    "name": "Yann Samuell"
+  },
+  {
+    "id": 328,
+    "name": "Ron Howard"
+  },
+  {
+    "id": 329,
+    "name": "Stephen Chow"
+  },
+  {
+    "id": 330,
+    "name": "Kevin Altieri"
+  },
+  {
+    "id": 331,
+    "name": "Emir Kusturica"
+  },
+  {
+    "id": 332,
+    "name": "Shin'ichirô Watanabe"
+  },
+  {
+    "id": 333,
+    "name": "Tyler Nilson"
+  },
+  {
+    "id": 334,
+    "name": "John Huston"
+  },
+  {
+    "id": 335,
+    "name": "Sergei M. Eisenstein"
+  },
+  {
+    "id": 336,
+    "name": "Eric Bress"
+  },
+  {
+    "id": 337,
+    "name": "Sriram Raghavan"
+  },
+  {
+    "id": 338,
+    "name": "Pierre Coffin"
+  },
+  {
+    "id": 339,
+    "name": "Cary Joji Fukunaga"
+  },
+  {
+    "id": 340,
+    "name": "Niels Arden Oplev"
+  },
+  {
+    "id": 341,
+    "name": "Giuseppe Tornatore"
+  },
+  {
+    "id": 342,
+    "name": "Josh Boone"
+  },
+  {
+    "id": 343,
+    "name": "Francis Lee"
+  },
+  {
+    "id": 344,
+    "name": "Yilmaz Erdogan"
+  },
+  {
+    "id": 345,
+    "name": "Rich Moore"
+  },
+  {
+    "id": 346,
+    "name": "Bernardo Bertolucci"
+  },
+  {
+    "id": 347,
+    "name": "Martin Brest"
+  },
+  {
+    "id": 348,
+    "name": "J. Lee Thompson"
+  },
+  {
+    "id": 349,
+    "name": "Hrishikesh Mukherjee"
+  },
+  {
+    "id": 350,
+    "name": "David O. Russell"
+  },
+  {
+    "id": 351,
+    "name": "Robert Rossen"
+  },
+  {
+    "id": 352,
+    "name": "Joe Johnston"
+  },
+  {
+    "id": 353,
+    "name": "George Cukor"
+  },
+  {
+    "id": 354,
+    "name": "Alejandro G. Iñárritu"
+  },
+  {
+    "id": 355,
+    "name": "Frank Darabont"
+  },
+  {
+    "id": 356,
+    "name": "Mike Leigh"
+  },
+  {
+    "id": 357,
+    "name": "Jordan Peele"
+  },
+  {
+    "id": 358,
+    "name": "Jeong-beom Lee"
+  },
+  {
+    "id": 359,
+    "name": "Charles Vidor"
+  },
+  {
+    "id": 360,
+    "name": "Tony Kaye"
+  },
+  {
+    "id": 361,
+    "name": "Andrew Niccol"
+  },
+  {
+    "id": 362,
+    "name": "Anders Thomas Jensen"
+  },
+  {
+    "id": 363,
+    "name": "René Laloux"
+  },
+  {
+    "id": 364,
+    "name": "Taika Waititi"
+  },
+  {
+    "id": 365,
+    "name": "George Seaton"
+  },
+  {
+    "id": 366,
+    "name": "John Sturges"
+  },
+  {
+    "id": 367,
+    "name": "Andrew Stanton"
+  },
+  {
+    "id": 368,
+    "name": "Lenny Abrahamson"
+  },
+  {
+    "id": 369,
+    "name": "Vincent Paronnaud"
+  },
+  {
+    "id": 370,
+    "name": "Lewis Milestone"
+  },
+  {
+    "id": 371,
+    "name": "Philip Kaufman"
+  },
+  {
+    "id": 372,
+    "name": "Elia Kazan"
+  },
+  {
+    "id": 373,
+    "name": "Deniz Gamze Ergüven"
+  },
+  {
+    "id": 374,
+    "name": "Sofia Coppola"
+  },
+  {
+    "id": 375,
+    "name": "Stephen Chbosky"
+  },
+  {
+    "id": 376,
+    "name": "Robert Altman"
+  },
+  {
+    "id": 377,
+    "name": "Duncan Jones"
+  },
+  {
+    "id": 378,
+    "name": "Byron Howard"
+  },
+  {
+    "id": 379,
+    "name": "Ruben Fleischer"
+  },
+  {
+    "id": 380,
+    "name": "Alan Parker"
+  },
+  {
+    "id": 381,
+    "name": "Neil Burger"
+  },
+  {
+    "id": 382,
+    "name": "Federico Fellini"
+  },
+  {
+    "id": 383,
+    "name": "Charles Laughton"
+  },
+  {
+    "id": 384,
+    "name": "Paul Haggis"
+  },
+  {
+    "id": 385,
+    "name": "Brian Henson"
+  },
+  {
+    "id": 386,
+    "name": "Michael Powell"
+  },
+  {
+    "id": 387,
+    "name": "Dan Gilroy"
+  },
+  {
+    "id": 388,
+    "name": "Jonathan Lynn"
+  },
+  {
+    "id": 389,
+    "name": "Brian G. Hutton"
+  },
+  {
+    "id": 390,
+    "name": "Gregg Araki"
+  },
+  {
+    "id": 391,
+    "name": "Alfonso Gomez-Rejon"
+  },
+  {
+    "id": 392,
+    "name": "Roman Polanski"
+  },
+  {
+    "id": 393,
+    "name": "Paul McGuigan"
+  },
+  {
+    "id": 394,
+    "name": "Robert Redford"
+  },
+  {
+    "id": 395,
+    "name": "Martin McDonagh"
+  },
+  {
+    "id": 396,
+    "name": "Neill Blomkamp"
+  },
+  {
+    "id": 397,
+    "name": "Gillo Pontecorvo"
+  },
+  {
+    "id": 398,
+    "name": "Milos Forman"
+  },
+  {
+    "id": 399,
+    "name": "Oliver Stone"
+  },
+  {
+    "id": 400,
+    "name": "Vishal Bhardwaj"
+  },
+  {
+    "id": 401,
+    "name": "Hannes Holm"
+  },
+  {
+    "id": 402,
+    "name": "Franklin J. Schaffner"
+  },
+  {
+    "id": 403,
+    "name": "Arthur Penn"
+  },
+  {
+    "id": 404,
+    "name": "Doug Liman"
+  },
+  {
+    "id": 405,
+    "name": "Alfred Hitchcock"
+  },
+  {
+    "id": 406,
+    "name": "Michael Haneke"
+  },
+  {
+    "id": 407,
+    "name": "Mike Nichols"
+  },
+  {
+    "id": 408,
+    "name": "Oriol Paulo"
+  },
+  {
+    "id": 409,
+    "name": "Steven Spielberg"
+  },
+  {
+    "id": 410,
+    "name": "Thomas Kail"
+  },
+  {
+    "id": 411,
+    "name": "Walter Hill"
+  },
+  {
+    "id": 412,
+    "name": "Lana Wachowski"
+  },
+  {
+    "id": 413,
+    "name": "Michael Curtiz"
+  },
+  {
+    "id": 414,
+    "name": "Lars von Trier"
+  },
+  {
+    "id": 415,
+    "name": "Jean-Luc Godard"
+  },
+  {
+    "id": 416,
+    "name": "Lee Tamahori"
+  },
+  {
+    "id": 417,
+    "name": "Jack Clayton"
+  },
+  {
+    "id": 418,
+    "name": "Andrew Adamson"
+  },
+  {
+    "id": 419,
+    "name": "Martin Scorsese"
+  },
+  {
+    "id": 420,
+    "name": "Travis Knight"
+  },
+  {
+    "id": 421,
+    "name": "John Carney"
+  },
+  {
+    "id": 422,
+    "name": "Olivier Dahan"
+  },
+  {
+    "id": 423,
+    "name": "Ronny Yu"
+  },
+  {
+    "id": 424,
+    "name": "Nicholas Ray"
+  },
+  {
+    "id": 425,
+    "name": "Je-kyu Kang"
+  },
+  {
+    "id": 426,
+    "name": "Amit Ravindernath Sharma"
+  },
+  {
+    "id": 427,
+    "name": "Jemaine Clement"
+  },
+  {
+    "id": 428,
+    "name": "Jean-Marc Vallée"
+  },
+  {
+    "id": 429,
+    "name": "Brad Anderson"
+  },
+  {
+    "id": 430,
+    "name": "Rajkumar Santoshi"
+  },
+  {
+    "id": 431,
+    "name": "Cameron Crowe"
+  },
+  {
+    "id": 432,
+    "name": "Abhishek Kapoor"
+  },
+  {
+    "id": 433,
+    "name": "Zaza Urushadze"
+  },
+  {
+    "id": 434,
+    "name": "Céline Sciamma"
+  },
+  {
+    "id": 435,
+    "name": "Wim Wenders"
+  },
+  {
+    "id": 436,
+    "name": "Ryan Coogler"
+  },
+  {
+    "id": 437,
+    "name": "Fabián Bielinsky"
+  },
+  {
+    "id": 438,
+    "name": "David Cronenberg"
+  },
+  {
+    "id": 439,
+    "name": "Gene Saks"
+  },
+  {
+    "id": 440,
+    "name": "Mikael Håfström"
+  },
+  {
+    "id": 441,
+    "name": "Don Hall"
+  },
+  {
+    "id": 442,
+    "name": "Umesh Shukla"
+  },
+  {
+    "id": 443,
+    "name": "W.S. Van Dyke"
+  },
+  {
+    "id": 444,
+    "name": "Lasse Hallström"
+  },
+  {
+    "id": 445,
+    "name": "David Leitch"
+  },
+  {
+    "id": 446,
+    "name": "David Fincher"
+  },
+  {
+    "id": 447,
+    "name": "Carol Reed"
+  },
+  {
+    "id": 448,
+    "name": "Julian Schnabel"
+  },
+  {
+    "id": 449,
+    "name": "James Gunn"
+  },
+  {
+    "id": 450,
+    "name": "Robert Zemeckis"
+  },
+  {
+    "id": 451,
+    "name": "Abdellatif Kechiche"
+  },
+  {
+    "id": 452,
+    "name": "Pedro Almodóvar"
+  },
+  {
+    "id": 453,
+    "name": "Lee Unkrich"
+  },
+  {
+    "id": 454,
+    "name": "Steven Soderbergh"
+  },
+  {
+    "id": 455,
+    "name": "F.W. Murnau"
+  },
+  {
+    "id": 456,
+    "name": "Gus Van Sant"
+  },
+  {
+    "id": 457,
+    "name": "Danis Tanovic"
+  },
+  {
+    "id": 458,
+    "name": "Sean Penn"
+  },
+  {
+    "id": 459,
+    "name": "Jee-woon Kim"
+  },
+  {
+    "id": 460,
+    "name": "Stanley Kramer"
+  },
+  {
+    "id": 461,
+    "name": "Yavuz Turgul"
+  },
+  {
+    "id": 462,
+    "name": "Akira Kurosawa"
+  },
+  {
+    "id": 463,
+    "name": "Jules Dassin"
+  },
+  {
+    "id": 464,
+    "name": "Marc Caro"
+  },
+  {
+    "id": 465,
+    "name": "Roger Allers"
+  },
+  {
+    "id": 466,
+    "name": "Edward Zwick"
+  },
+  {
+    "id": 467,
+    "name": "Luc Besson"
+  },
+  {
+    "id": 468,
+    "name": "Robert Hamer"
+  },
+  {
+    "id": 469,
+    "name": "Roger Donaldson"
+  },
+  {
+    "id": 470,
+    "name": "Scott Hicks"
+  },
+  {
+    "id": 471,
+    "name": "Troy Duffy"
+  },
+  {
+    "id": 472,
+    "name": "Asghar Farhadi"
+  },
+  {
+    "id": 473,
+    "name": "Wolfgang Reitherman"
+  },
+  {
+    "id": 474,
+    "name": "Robert Wise"
+  },
+  {
+    "id": 475,
+    "name": "Jean-Pierre Jeunet"
+  },
+  {
+    "id": 476,
+    "name": "Orson Welles"
+  },
+  {
+    "id": 477,
+    "name": "James Ivory"
+  },
+  {
+    "id": 478,
+    "name": "Tetsuya Nakashima"
+  },
+  {
+    "id": 479,
+    "name": "John Lasseter"
+  },
+  {
+    "id": 480,
+    "name": "Sylvain Chomet"
+  },
+  {
+    "id": 481,
+    "name": "Christian Carion"
+  },
+  {
+    "id": 482,
+    "name": "Alan J. Pakula"
+  },
+  {
+    "id": 483,
+    "name": "Martin Zandvliet"
+  },
+  {
+    "id": 484,
+    "name": "David Yates"
+  },
+  {
+    "id": 485,
+    "name": "John Ford"
+  },
+  {
+    "id": 486,
+    "name": "Guy Hamilton"
+  },
+  {
+    "id": 487,
+    "name": "Theodore Melfi"
+  },
+  {
+    "id": 488,
+    "name": "Bob Clark"
+  },
+  {
+    "id": 489,
+    "name": "Raoul Walsh"
+  },
+  {
+    "id": 490,
+    "name": "Juan José Campanella"
+  },
+  {
+    "id": 491,
+    "name": "John Frankenheimer"
+  },
+  {
+    "id": 492,
+    "name": "Luca Guadagnino"
+  },
+  {
+    "id": 493,
+    "name": "Kevin Smith"
+  },
+  {
+    "id": 494,
+    "name": "Alfonso Cuarón"
+  },
+  {
+    "id": 495,
+    "name": "Mary Harron"
+  },
+  {
+    "id": 496,
+    "name": "Jim Jarmusch"
+  },
+  {
+    "id": 497,
+    "name": "Billy Wilder"
+  },
+  {
+    "id": 498,
+    "name": "Victor Fleming"
+  },
+  {
+    "id": 499,
+    "name": "Elem Klimov"
+  },
+  {
+    "id": 500,
+    "name": "Carl Theodor Dreyer"
+  },
+  {
+    "id": 501,
+    "name": "John Hughes"
+  },
+  {
+    "id": 502,
+    "name": "Damien Chazelle"
+  },
+  {
+    "id": 503,
+    "name": "Aniruddha Roy Chowdhury"
+  },
+  {
+    "id": 504,
+    "name": "Blake Edwards"
+  },
+  {
+    "id": 505,
+    "name": "Ridley Scott"
+  },
+  {
+    "id": 506,
+    "name": "Yôjirô Takita"
+  },
+  {
+    "id": 507,
+    "name": "John McTiernan"
+  },
+  {
+    "id": 508,
+    "name": "Frank Miller"
+  },
+  {
+    "id": 509,
+    "name": "Can Ulkay"
+  },
+  {
+    "id": 510,
+    "name": "James Marsh"
+  },
+  {
+    "id": 511,
+    "name": "Chan-wook Park"
+  },
+  {
+    "id": 512,
+    "name": "Tim Burton"
+  },
+  {
+    "id": 513,
+    "name": "Ki-duk Kim"
+  },
+  {
+    "id": 514,
+    "name": "Andrei Tarkovsky"
+  },
+  {
+    "id": 515,
+    "name": "John Carpenter"
+  },
+  {
+    "id": 516,
+    "name": "Spike Lee"
+  },
+  {
+    "id": 517,
+    "name": "Cy Endfield"
+  },
+  {
+    "id": 518,
+    "name": "Isao Takahata"
+  },
+  {
+    "id": 519,
+    "name": "George Stevens"
+  },
+  {
+    "id": 520,
+    "name": "Billy Bob Thornton"
+  },
+  {
+    "id": 521,
+    "name": "Charles Chaplin"
+  },
+  {
+    "id": 522,
+    "name": "Shoojit Sircar"
+  },
+  {
+    "id": 523,
+    "name": "Bryan Singer"
+  },
+  {
+    "id": 524,
+    "name": "Peter Farrelly"
+  },
+  {
+    "id": 525,
+    "name": "John Cameron Mitchell"
+  },
+  {
+    "id": 526,
+    "name": "James Foley"
+  },
+  {
+    "id": 527,
+    "name": "William Friedkin"
+  },
+  {
+    "id": 528,
+    "name": "Darius Marder"
+  },
+  {
+    "id": 529,
+    "name": "Paul King"
+  },
+  {
+    "id": 530,
+    "name": "Ramesh Sippy"
+  },
+  {
+    "id": 531,
+    "name": "Jacques Tourneur"
+  },
+  {
+    "id": 532,
+    "name": "Barry Levinson"
+  },
+  {
+    "id": 533,
+    "name": "Felix van Groeningen"
+  },
+  {
+    "id": 534,
+    "name": "Henri-Georges Clouzot"
+  },
+  {
+    "id": 535,
+    "name": "Greta Gerwig"
+  },
+  {
+    "id": 536,
+    "name": "Aamir Khan"
+  },
+  {
+    "id": 537,
+    "name": "Tom McCarthy"
+  },
+  {
+    "id": 538,
+    "name": "Gauri Shinde"
+  },
+  {
+    "id": 539,
+    "name": "Jean-Pierre Melville"
+  },
+  {
+    "id": 540,
+    "name": "Paolo Sorrentino"
+  },
+  {
+    "id": 541,
+    "name": "Makoto Shinkai"
+  },
+  {
+    "id": 542,
+    "name": "George P. Cosmatos"
+  },
+  {
+    "id": 543,
+    "name": "Roberto Benigni"
+  },
+  {
+    "id": 544,
+    "name": "Boaz Yakin"
+  },
+  {
+    "id": 545,
+    "name": "Çagan Irmak"
+  },
+  {
+    "id": 546,
+    "name": "Ben Affleck"
+  },
+  {
+    "id": 547,
+    "name": "Richard Brooks"
+  },
+  {
+    "id": 548,
+    "name": "Ken Annakin"
+  }
+]

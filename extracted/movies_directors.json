@@ -1,0 +1,4002 @@
+[
+  {
+    "director_id": 1,
+    "movie_id": 499
+  },
+  {
+    "director_id": 1,
+    "movie_id": 646
+  },
+  {
+    "director_id": 1,
+    "movie_id": 774
+  },
+  {
+    "director_id": 1,
+    "movie_id": 963
+  },
+  {
+    "director_id": 2,
+    "movie_id": 371
+  },
+  {
+    "director_id": 2,
+    "movie_id": 881
+  },
+  {
+    "director_id": 2,
+    "movie_id": 896
+  },
+  {
+    "director_id": 3,
+    "movie_id": 179
+  },
+  {
+    "director_id": 3,
+    "movie_id": 394
+  },
+  {
+    "director_id": 3,
+    "movie_id": 530
+  },
+  {
+    "director_id": 3,
+    "movie_id": 958
+  },
+  {
+    "director_id": 4,
+    "movie_id": 654
+  },
+  {
+    "director_id": 5,
+    "movie_id": 848
+  },
+  {
+    "director_id": 6,
+    "movie_id": 258
+  },
+  {
+    "director_id": 7,
+    "movie_id": 601
+  },
+  {
+    "director_id": 8,
+    "movie_id": 910
+  },
+  {
+    "director_id": 9,
+    "movie_id": 867
+  },
+  {
+    "director_id": 10,
+    "movie_id": 406
+  },
+  {
+    "director_id": 11,
+    "movie_id": 95
+  },
+  {
+    "director_id": 12,
+    "movie_id": 773
+  },
+  {
+    "director_id": 13,
+    "movie_id": 552
+  },
+  {
+    "director_id": 14,
+    "movie_id": 400
+  },
+  {
+    "director_id": 14,
+    "movie_id": 893
+  },
+  {
+    "director_id": 14,
+    "movie_id": 977
+  },
+  {
+    "director_id": 15,
+    "movie_id": 145
+  },
+  {
+    "director_id": 16,
+    "movie_id": 588
+  },
+  {
+    "director_id": 17,
+    "movie_id": 594
+  },
+  {
+    "director_id": 18,
+    "movie_id": 978
+  },
+  {
+    "director_id": 19,
+    "movie_id": 201
+  },
+  {
+    "director_id": 20,
+    "movie_id": 68
+  },
+  {
+    "director_id": 21,
+    "movie_id": 346
+  },
+  {
+    "director_id": 21,
+    "movie_id": 357
+  },
+  {
+    "director_id": 22,
+    "movie_id": 945
+  },
+  {
+    "director_id": 23,
+    "movie_id": 158
+  },
+  {
+    "director_id": 23,
+    "movie_id": 793
+  },
+  {
+    "director_id": 24,
+    "movie_id": 556
+  },
+  {
+    "director_id": 24,
+    "movie_id": 696
+  },
+  {
+    "director_id": 24,
+    "movie_id": 859
+  },
+  {
+    "director_id": 24,
+    "movie_id": 998
+  },
+  {
+    "director_id": 25,
+    "movie_id": 150
+  },
+  {
+    "director_id": 25,
+    "movie_id": 384
+  },
+  {
+    "director_id": 25,
+    "movie_id": 518
+  },
+  {
+    "director_id": 26,
+    "movie_id": 616
+  },
+  {
+    "director_id": 27,
+    "movie_id": 581
+  },
+  {
+    "director_id": 28,
+    "movie_id": 766
+  },
+  {
+    "director_id": 28,
+    "movie_id": 906
+  },
+  {
+    "director_id": 29,
+    "movie_id": 59
+  },
+  {
+    "director_id": 30,
+    "movie_id": 472
+  },
+  {
+    "director_id": 31,
+    "movie_id": 31
+  },
+  {
+    "director_id": 32,
+    "movie_id": 103
+  },
+  {
+    "director_id": 32,
+    "movie_id": 213
+  },
+  {
+    "director_id": 32,
+    "movie_id": 626
+  },
+  {
+    "director_id": 33,
+    "movie_id": 268
+  },
+  {
+    "director_id": 33,
+    "movie_id": 407
+  },
+  {
+    "director_id": 33,
+    "movie_id": 531
+  },
+  {
+    "director_id": 33,
+    "movie_id": 671
+  },
+  {
+    "director_id": 33,
+    "movie_id": 761
+  },
+  {
+    "director_id": 33,
+    "movie_id": 825
+  },
+  {
+    "director_id": 33,
+    "movie_id": 976
+  },
+  {
+    "director_id": 34,
+    "movie_id": 143
+  },
+  {
+    "director_id": 35,
+    "movie_id": 502
+  },
+  {
+    "director_id": 36,
+    "movie_id": 293
+  },
+  {
+    "director_id": 36,
+    "movie_id": 540
+  },
+  {
+    "director_id": 36,
+    "movie_id": 858
+  },
+  {
+    "director_id": 37,
+    "movie_id": 403
+  },
+  {
+    "director_id": 38,
+    "movie_id": 686
+  },
+  {
+    "director_id": 39,
+    "movie_id": 437
+  },
+  {
+    "director_id": 39,
+    "movie_id": 561
+  },
+  {
+    "director_id": 39,
+    "movie_id": 564
+  },
+  {
+    "director_id": 39,
+    "movie_id": 710
+  },
+  {
+    "director_id": 39,
+    "movie_id": 712
+  },
+  {
+    "director_id": 39,
+    "movie_id": 716
+  },
+  {
+    "director_id": 39,
+    "movie_id": 719
+  },
+  {
+    "director_id": 40,
+    "movie_id": 682
+  },
+  {
+    "director_id": 40,
+    "movie_id": 980
+  },
+  {
+    "director_id": 41,
+    "movie_id": 493
+  },
+  {
+    "director_id": 42,
+    "movie_id": 13
+  },
+  {
+    "director_id": 42,
+    "movie_id": 49
+  },
+  {
+    "director_id": 42,
+    "movie_id": 72
+  },
+  {
+    "director_id": 42,
+    "movie_id": 116
+  },
+  {
+    "director_id": 42,
+    "movie_id": 432
+  },
+  {
+    "director_id": 42,
+    "movie_id": 991
+  },
+  {
+    "director_id": 43,
+    "movie_id": 123
+  },
+  {
+    "director_id": 44,
+    "movie_id": 464
+  },
+  {
+    "director_id": 45,
+    "movie_id": 23
+  },
+  {
+    "director_id": 46,
+    "movie_id": 387
+  },
+  {
+    "director_id": 46,
+    "movie_id": 634
+  },
+  {
+    "director_id": 46,
+    "movie_id": 759
+  },
+  {
+    "director_id": 47,
+    "movie_id": 354
+  },
+  {
+    "director_id": 48,
+    "movie_id": 189
+  },
+  {
+    "director_id": 49,
+    "movie_id": 834
+  },
+  {
+    "director_id": 49,
+    "movie_id": 951
+  },
+  {
+    "director_id": 50,
+    "movie_id": 238
+  },
+  {
+    "director_id": 50,
+    "movie_id": 260
+  },
+  {
+    "director_id": 50,
+    "movie_id": 479
+  },
+  {
+    "director_id": 50,
+    "movie_id": 492
+  },
+  {
+    "director_id": 50,
+    "movie_id": 644
+  },
+  {
+    "director_id": 50,
+    "movie_id": 970
+  },
+  {
+    "director_id": 51,
+    "movie_id": 690
+  },
+  {
+    "director_id": 52,
+    "movie_id": 231
+  },
+  {
+    "director_id": 52,
+    "movie_id": 600
+  },
+  {
+    "director_id": 53,
+    "movie_id": 65
+  },
+  {
+    "director_id": 53,
+    "movie_id": 208
+  },
+  {
+    "director_id": 53,
+    "movie_id": 234
+  },
+  {
+    "director_id": 53,
+    "movie_id": 239
+  },
+  {
+    "director_id": 54,
+    "movie_id": 890
+  },
+  {
+    "director_id": 55,
+    "movie_id": 210
+  },
+  {
+    "director_id": 55,
+    "movie_id": 470
+  },
+  {
+    "director_id": 55,
+    "movie_id": 500
+  },
+  {
+    "director_id": 55,
+    "movie_id": 599
+  },
+  {
+    "director_id": 55,
+    "movie_id": 804
+  },
+  {
+    "director_id": 55,
+    "movie_id": 946
+  },
+  {
+    "director_id": 56,
+    "movie_id": 911
+  },
+  {
+    "director_id": 57,
+    "movie_id": 876
+  },
+  {
+    "director_id": 58,
+    "movie_id": 597
+  },
+  {
+    "director_id": 59,
+    "movie_id": 383
+  },
+  {
+    "director_id": 60,
+    "movie_id": 89
+  },
+  {
+    "director_id": 60,
+    "movie_id": 388
+  },
+  {
+    "director_id": 60,
+    "movie_id": 614
+  },
+  {
+    "director_id": 61,
+    "movie_id": 294
+  },
+  {
+    "director_id": 61,
+    "movie_id": 857
+  },
+  {
+    "director_id": 62,
+    "movie_id": 58
+  },
+  {
+    "director_id": 62,
+    "movie_id": 129
+  },
+  {
+    "director_id": 63,
+    "movie_id": 802
+  },
+  {
+    "director_id": 64,
+    "movie_id": 664
+  },
+  {
+    "director_id": 65,
+    "movie_id": 787
+  },
+  {
+    "director_id": 66,
+    "movie_id": 6
+  },
+  {
+    "director_id": 66,
+    "movie_id": 11
+  },
+  {
+    "director_id": 66,
+    "movie_id": 14
+  },
+  {
+    "director_id": 66,
+    "movie_id": 610
+  },
+  {
+    "director_id": 66,
+    "movie_id": 619
+  },
+  {
+    "director_id": 67,
+    "movie_id": 24
+  },
+  {
+    "director_id": 67,
+    "movie_id": 71
+  },
+  {
+    "director_id": 67,
+    "movie_id": 159
+  },
+  {
+    "director_id": 67,
+    "movie_id": 171
+  },
+  {
+    "director_id": 67,
+    "movie_id": 271
+  },
+  {
+    "director_id": 67,
+    "movie_id": 410
+  },
+  {
+    "director_id": 67,
+    "movie_id": 596
+  },
+  {
+    "director_id": 67,
+    "movie_id": 673
+  },
+  {
+    "director_id": 67,
+    "movie_id": 757
+  },
+  {
+    "director_id": 67,
+    "movie_id": 823
+  },
+  {
+    "director_id": 67,
+    "movie_id": 844
+  },
+  {
+    "director_id": 68,
+    "movie_id": 321
+  },
+  {
+    "director_id": 69,
+    "movie_id": 969
+  },
+  {
+    "director_id": 70,
+    "movie_id": 198
+  },
+  {
+    "director_id": 71,
+    "movie_id": 157
+  },
+  {
+    "director_id": 71,
+    "movie_id": 248
+  },
+  {
+    "director_id": 72,
+    "movie_id": 109
+  },
+  {
+    "director_id": 72,
+    "movie_id": 524
+  },
+  {
+    "director_id": 72,
+    "movie_id": 528
+  },
+  {
+    "director_id": 73,
+    "movie_id": 375
+  },
+  {
+    "director_id": 74,
+    "movie_id": 397
+  },
+  {
+    "director_id": 75,
+    "movie_id": 325
+  },
+  {
+    "director_id": 76,
+    "movie_id": 519
+  },
+  {
+    "director_id": 77,
+    "movie_id": 21
+  },
+  {
+    "director_id": 78,
+    "movie_id": 389
+  },
+  {
+    "director_id": 78,
+    "movie_id": 639
+  },
+  {
+    "director_id": 79,
+    "movie_id": 74
+  },
+  {
+    "director_id": 79,
+    "movie_id": 79
+  },
+  {
+    "director_id": 79,
+    "movie_id": 81
+  },
+  {
+    "director_id": 79,
+    "movie_id": 105
+  },
+  {
+    "director_id": 79,
+    "movie_id": 114
+  },
+  {
+    "director_id": 79,
+    "movie_id": 115
+  },
+  {
+    "director_id": 79,
+    "movie_id": 282
+  },
+  {
+    "director_id": 79,
+    "movie_id": 442
+  },
+  {
+    "director_id": 79,
+    "movie_id": 550
+  },
+  {
+    "director_id": 80,
+    "movie_id": 191
+  },
+  {
+    "director_id": 80,
+    "movie_id": 421
+  },
+  {
+    "director_id": 81,
+    "movie_id": 367
+  },
+  {
+    "director_id": 82,
+    "movie_id": 279
+  },
+  {
+    "director_id": 83,
+    "movie_id": 546
+  },
+  {
+    "director_id": 84,
+    "movie_id": 831
+  },
+  {
+    "director_id": 85,
+    "movie_id": 782
+  },
+  {
+    "director_id": 85,
+    "movie_id": 810
+  },
+  {
+    "director_id": 86,
+    "movie_id": 91
+  },
+  {
+    "director_id": 86,
+    "movie_id": 223
+  },
+  {
+    "director_id": 86,
+    "movie_id": 341
+  },
+  {
+    "director_id": 86,
+    "movie_id": 477
+  },
+  {
+    "director_id": 86,
+    "movie_id": 894
+  },
+  {
+    "director_id": 87,
+    "movie_id": 854
+  },
+  {
+    "director_id": 87,
+    "movie_id": 868
+  },
+  {
+    "director_id": 87,
+    "movie_id": 986
+  },
+  {
+    "director_id": 88,
+    "movie_id": 469
+  },
+  {
+    "director_id": 89,
+    "movie_id": 643
+  },
+  {
+    "director_id": 90,
+    "movie_id": 799
+  },
+  {
+    "director_id": 91,
+    "movie_id": 879
+  },
+  {
+    "director_id": 92,
+    "movie_id": 558
+  },
+  {
+    "director_id": 93,
+    "movie_id": 369
+  },
+  {
+    "director_id": 94,
+    "movie_id": 423
+  },
+  {
+    "director_id": 94,
+    "movie_id": 547
+  },
+  {
+    "director_id": 94,
+    "movie_id": 953
+  },
+  {
+    "director_id": 95,
+    "movie_id": 30
+  },
+  {
+    "director_id": 96,
+    "movie_id": 5
+  },
+  {
+    "director_id": 96,
+    "movie_id": 281
+  },
+  {
+    "director_id": 96,
+    "movie_id": 417
+  },
+  {
+    "director_id": 96,
+    "movie_id": 839
+  },
+  {
+    "director_id": 96,
+    "movie_id": 850
+  },
+  {
+    "director_id": 97,
+    "movie_id": 88
+  },
+  {
+    "director_id": 98,
+    "movie_id": 316
+  },
+  {
+    "director_id": 98,
+    "movie_id": 460
+  },
+  {
+    "director_id": 99,
+    "movie_id": 852
+  },
+  {
+    "director_id": 100,
+    "movie_id": 630
+  },
+  {
+    "director_id": 101,
+    "movie_id": 486
+  },
+  {
+    "director_id": 102,
+    "movie_id": 886
+  },
+  {
+    "director_id": 103,
+    "movie_id": 491
+  },
+  {
+    "director_id": 103,
+    "movie_id": 739
+  },
+  {
+    "director_id": 104,
+    "movie_id": 347
+  },
+  {
+    "director_id": 105,
+    "movie_id": 575
+  },
+  {
+    "director_id": 106,
+    "movie_id": 583
+  },
+  {
+    "director_id": 107,
+    "movie_id": 771
+  },
+  {
+    "director_id": 108,
+    "movie_id": 851
+  },
+  {
+    "director_id": 109,
+    "movie_id": 488
+  },
+  {
+    "director_id": 110,
+    "movie_id": 717
+  },
+  {
+    "director_id": 110,
+    "movie_id": 720
+  },
+  {
+    "director_id": 110,
+    "movie_id": 877
+  },
+  {
+    "director_id": 111,
+    "movie_id": 221
+  },
+  {
+    "director_id": 112,
+    "movie_id": 418
+  },
+  {
+    "director_id": 112,
+    "movie_id": 849
+  },
+  {
+    "director_id": 113,
+    "movie_id": 261
+  },
+  {
+    "director_id": 113,
+    "movie_id": 522
+  },
+  {
+    "director_id": 113,
+    "movie_id": 669
+  },
+  {
+    "director_id": 113,
+    "movie_id": 968
+  },
+  {
+    "director_id": 114,
+    "movie_id": 329
+  },
+  {
+    "director_id": 115,
+    "movie_id": 301
+  },
+  {
+    "director_id": 115,
+    "movie_id": 447
+  },
+  {
+    "director_id": 115,
+    "movie_id": 455
+  },
+  {
+    "director_id": 116,
+    "movie_id": 950
+  },
+  {
+    "director_id": 117,
+    "movie_id": 807
+  },
+  {
+    "director_id": 118,
+    "movie_id": 995
+  },
+  {
+    "director_id": 119,
+    "movie_id": 92
+  },
+  {
+    "director_id": 120,
+    "movie_id": 165
+  },
+  {
+    "director_id": 120,
+    "movie_id": 650
+  },
+  {
+    "director_id": 120,
+    "movie_id": 822
+  },
+  {
+    "director_id": 121,
+    "movie_id": 247
+  },
+  {
+    "director_id": 122,
+    "movie_id": 352
+  },
+  {
+    "director_id": 123,
+    "movie_id": 134
+  },
+  {
+    "director_id": 123,
+    "movie_id": 571
+  },
+  {
+    "director_id": 124,
+    "movie_id": 691
+  },
+  {
+    "director_id": 124,
+    "movie_id": 697
+  },
+  {
+    "director_id": 124,
+    "movie_id": 956
+  },
+  {
+    "director_id": 125,
+    "movie_id": 266
+  },
+  {
+    "director_id": 125,
+    "movie_id": 508
+  },
+  {
+    "director_id": 126,
+    "movie_id": 496
+  },
+  {
+    "director_id": 127,
+    "movie_id": 34
+  },
+  {
+    "director_id": 127,
+    "movie_id": 751
+  },
+  {
+    "director_id": 128,
+    "movie_id": 523
+  },
+  {
+    "director_id": 128,
+    "movie_id": 797
+  },
+  {
+    "director_id": 129,
+    "movie_id": 553
+  },
+  {
+    "director_id": 130,
+    "movie_id": 987
+  },
+  {
+    "director_id": 131,
+    "movie_id": 130
+  },
+  {
+    "director_id": 132,
+    "movie_id": 215
+  },
+  {
+    "director_id": 133,
+    "movie_id": 361
+  },
+  {
+    "director_id": 133,
+    "movie_id": 918
+  },
+  {
+    "director_id": 134,
+    "movie_id": 613
+  },
+  {
+    "director_id": 135,
+    "movie_id": 955
+  },
+  {
+    "director_id": 136,
+    "movie_id": 414
+  },
+  {
+    "director_id": 136,
+    "movie_id": 542
+  },
+  {
+    "director_id": 137,
+    "movie_id": 254
+  },
+  {
+    "director_id": 137,
+    "movie_id": 262
+  },
+  {
+    "director_id": 137,
+    "movie_id": 815
+  },
+  {
+    "director_id": 138,
+    "movie_id": 251
+  },
+  {
+    "director_id": 138,
+    "movie_id": 267
+  },
+  {
+    "director_id": 139,
+    "movie_id": 155
+  },
+  {
+    "director_id": 140,
+    "movie_id": 17
+  },
+  {
+    "director_id": 141,
+    "movie_id": 60
+  },
+  {
+    "director_id": 141,
+    "movie_id": 61
+  },
+  {
+    "director_id": 141,
+    "movie_id": 584
+  },
+  {
+    "director_id": 141,
+    "movie_id": 738
+  },
+  {
+    "director_id": 142,
+    "movie_id": 843
+  },
+  {
+    "director_id": 143,
+    "movie_id": 342
+  },
+  {
+    "director_id": 143,
+    "movie_id": 790
+  },
+  {
+    "director_id": 143,
+    "movie_id": 806
+  },
+  {
+    "director_id": 144,
+    "movie_id": 380
+  },
+  {
+    "director_id": 145,
+    "movie_id": 897
+  },
+  {
+    "director_id": 146,
+    "movie_id": 264
+  },
+  {
+    "director_id": 146,
+    "movie_id": 526
+  },
+  {
+    "director_id": 146,
+    "movie_id": 788
+  },
+  {
+    "director_id": 147,
+    "movie_id": 718
+  },
+  {
+    "director_id": 148,
+    "movie_id": 138
+  },
+  {
+    "director_id": 149,
+    "movie_id": 903
+  },
+  {
+    "director_id": 150,
+    "movie_id": 916
+  },
+  {
+    "director_id": 151,
+    "movie_id": 280
+  },
+  {
+    "director_id": 152,
+    "movie_id": 111
+  },
+  {
+    "director_id": 153,
+    "movie_id": 147
+  },
+  {
+    "director_id": 153,
+    "movie_id": 206
+  },
+  {
+    "director_id": 153,
+    "movie_id": 214
+  },
+  {
+    "director_id": 153,
+    "movie_id": 246
+  },
+  {
+    "director_id": 154,
+    "movie_id": 225
+  },
+  {
+    "director_id": 154,
+    "movie_id": 327
+  },
+  {
+    "director_id": 154,
+    "movie_id": 336
+  },
+  {
+    "director_id": 154,
+    "movie_id": 580
+  },
+  {
+    "director_id": 155,
+    "movie_id": 289
+  },
+  {
+    "director_id": 156,
+    "movie_id": 438
+  },
+  {
+    "director_id": 156,
+    "movie_id": 454
+  },
+  {
+    "director_id": 157,
+    "movie_id": 705
+  },
+  {
+    "director_id": 158,
+    "movie_id": 278
+  },
+  {
+    "director_id": 159,
+    "movie_id": 504
+  },
+  {
+    "director_id": 159,
+    "movie_id": 628
+  },
+  {
+    "director_id": 159,
+    "movie_id": 889
+  },
+  {
+    "director_id": 160,
+    "movie_id": 830
+  },
+  {
+    "director_id": 161,
+    "movie_id": 934
+  },
+  {
+    "director_id": 162,
+    "movie_id": 700
+  },
+  {
+    "director_id": 163,
+    "movie_id": 326
+  },
+  {
+    "director_id": 164,
+    "movie_id": 536
+  },
+  {
+    "director_id": 164,
+    "movie_id": 545
+  },
+  {
+    "director_id": 165,
+    "movie_id": 789
+  },
+  {
+    "director_id": 166,
+    "movie_id": 544
+  },
+  {
+    "director_id": 167,
+    "movie_id": 538
+  },
+  {
+    "director_id": 168,
+    "movie_id": 685
+  },
+  {
+    "director_id": 169,
+    "movie_id": 149
+  },
+  {
+    "director_id": 170,
+    "movie_id": 45
+  },
+  {
+    "director_id": 170,
+    "movie_id": 107
+  },
+  {
+    "director_id": 170,
+    "movie_id": 411
+  },
+  {
+    "director_id": 170,
+    "movie_id": 624
+  },
+  {
+    "director_id": 170,
+    "movie_id": 653
+  },
+  {
+    "director_id": 171,
+    "movie_id": 764
+  },
+  {
+    "director_id": 171,
+    "movie_id": 927
+  },
+  {
+    "director_id": 172,
+    "movie_id": 265
+  },
+  {
+    "director_id": 173,
+    "movie_id": 141
+  },
+  {
+    "director_id": 173,
+    "movie_id": 351
+  },
+  {
+    "director_id": 174,
+    "movie_id": 253
+  },
+  {
+    "director_id": 174,
+    "movie_id": 256
+  },
+  {
+    "director_id": 174,
+    "movie_id": 798
+  },
+  {
+    "director_id": 174,
+    "movie_id": 827
+  },
+  {
+    "director_id": 174,
+    "movie_id": 828
+  },
+  {
+    "director_id": 174,
+    "movie_id": 981
+  },
+  {
+    "director_id": 175,
+    "movie_id": 205
+  },
+  {
+    "director_id": 176,
+    "movie_id": 482
+  },
+  {
+    "director_id": 177,
+    "movie_id": 609
+  },
+  {
+    "director_id": 178,
+    "movie_id": 33
+  },
+  {
+    "director_id": 178,
+    "movie_id": 314
+  },
+  {
+    "director_id": 178,
+    "movie_id": 317
+  },
+  {
+    "director_id": 178,
+    "movie_id": 456
+  },
+  {
+    "director_id": 179,
+    "movie_id": 587
+  },
+  {
+    "director_id": 180,
+    "movie_id": 607
+  },
+  {
+    "director_id": 181,
+    "movie_id": 285
+  },
+  {
+    "director_id": 181,
+    "movie_id": 422
+  },
+  {
+    "director_id": 182,
+    "movie_id": 617
+  },
+  {
+    "director_id": 183,
+    "movie_id": 193
+  },
+  {
+    "director_id": 183,
+    "movie_id": 312
+  },
+  {
+    "director_id": 184,
+    "movie_id": 948
+  },
+  {
+    "director_id": 184,
+    "movie_id": 974
+  },
+  {
+    "director_id": 185,
+    "movie_id": 277
+  },
+  {
+    "director_id": 185,
+    "movie_id": 386
+  },
+  {
+    "director_id": 185,
+    "movie_id": 516
+  },
+  {
+    "director_id": 185,
+    "movie_id": 835
+  },
+  {
+    "director_id": 185,
+    "movie_id": 962
+  },
+  {
+    "director_id": 186,
+    "movie_id": 902
+  },
+  {
+    "director_id": 187,
+    "movie_id": 478
+  },
+  {
+    "director_id": 187,
+    "movie_id": 494
+  },
+  {
+    "director_id": 187,
+    "movie_id": 747
+  },
+  {
+    "director_id": 188,
+    "movie_id": 661
+  },
+  {
+    "director_id": 189,
+    "movie_id": 324
+  },
+  {
+    "director_id": 190,
+    "movie_id": 195
+  },
+  {
+    "director_id": 191,
+    "movie_id": 465
+  },
+  {
+    "director_id": 192,
+    "movie_id": 441
+  },
+  {
+    "director_id": 192,
+    "movie_id": 870
+  },
+  {
+    "director_id": 193,
+    "movie_id": 7
+  },
+  {
+    "director_id": 193,
+    "movie_id": 63
+  },
+  {
+    "director_id": 193,
+    "movie_id": 94
+  },
+  {
+    "director_id": 193,
+    "movie_id": 104
+  },
+  {
+    "director_id": 193,
+    "movie_id": 242
+  },
+  {
+    "director_id": 193,
+    "movie_id": 370
+  },
+  {
+    "director_id": 193,
+    "movie_id": 585
+  },
+  {
+    "director_id": 193,
+    "movie_id": 880
+  },
+  {
+    "director_id": 194,
+    "movie_id": 567
+  },
+  {
+    "director_id": 195,
+    "movie_id": 929
+  },
+  {
+    "director_id": 195,
+    "movie_id": 931
+  },
+  {
+    "director_id": 196,
+    "movie_id": 503
+  },
+  {
+    "director_id": 197,
+    "movie_id": 136
+  },
+  {
+    "director_id": 198,
+    "movie_id": 2
+  },
+  {
+    "director_id": 198,
+    "movie_id": 4
+  },
+  {
+    "director_id": 198,
+    "movie_id": 75
+  },
+  {
+    "director_id": 198,
+    "movie_id": 694
+  },
+  {
+    "director_id": 198,
+    "movie_id": 975
+  },
+  {
+    "director_id": 199,
+    "movie_id": 498
+  },
+  {
+    "director_id": 200,
+    "movie_id": 230
+  },
+  {
+    "director_id": 201,
+    "movie_id": 763
+  },
+  {
+    "director_id": 202,
+    "movie_id": 941
+  },
+  {
+    "director_id": 203,
+    "movie_id": 726
+  },
+  {
+    "director_id": 204,
+    "movie_id": 137
+  },
+  {
+    "director_id": 205,
+    "movie_id": 826
+  },
+  {
+    "director_id": 206,
+    "movie_id": 415
+  },
+  {
+    "director_id": 206,
+    "movie_id": 527
+  },
+  {
+    "director_id": 206,
+    "movie_id": 529
+  },
+  {
+    "director_id": 206,
+    "movie_id": 534
+  },
+  {
+    "director_id": 206,
+    "movie_id": 744
+  },
+  {
+    "director_id": 206,
+    "movie_id": 836
+  },
+  {
+    "director_id": 206,
+    "movie_id": 838
+  },
+  {
+    "director_id": 206,
+    "movie_id": 847
+  },
+  {
+    "director_id": 206,
+    "movie_id": 930
+  },
+  {
+    "director_id": 207,
+    "movie_id": 801
+  },
+  {
+    "director_id": 208,
+    "movie_id": 36
+  },
+  {
+    "director_id": 209,
+    "movie_id": 729
+  },
+  {
+    "director_id": 210,
+    "movie_id": 220
+  },
+  {
+    "director_id": 210,
+    "movie_id": 921
+  },
+  {
+    "director_id": 211,
+    "movie_id": 809
+  },
+  {
+    "director_id": 212,
+    "movie_id": 467
+  },
+  {
+    "director_id": 213,
+    "movie_id": 110
+  },
+  {
+    "director_id": 214,
+    "movie_id": 568
+  },
+  {
+    "director_id": 215,
+    "movie_id": 395
+  },
+  {
+    "director_id": 216,
+    "movie_id": 731
+  },
+  {
+    "director_id": 216,
+    "movie_id": 750
+  },
+  {
+    "director_id": 216,
+    "movie_id": 909
+  },
+  {
+    "director_id": 216,
+    "movie_id": 920
+  },
+  {
+    "director_id": 217,
+    "movie_id": 322
+  },
+  {
+    "director_id": 218,
+    "movie_id": 908
+  },
+  {
+    "director_id": 219,
+    "movie_id": 800
+  },
+  {
+    "director_id": 220,
+    "movie_id": 841
+  },
+  {
+    "director_id": 221,
+    "movie_id": 97
+  },
+  {
+    "director_id": 221,
+    "movie_id": 162
+  },
+  {
+    "director_id": 221,
+    "movie_id": 570
+  },
+  {
+    "director_id": 221,
+    "movie_id": 915
+  },
+  {
+    "director_id": 222,
+    "movie_id": 672
+  },
+  {
+    "director_id": 223,
+    "movie_id": 338
+  },
+  {
+    "director_id": 223,
+    "movie_id": 901
+  },
+  {
+    "director_id": 224,
+    "movie_id": 882
+  },
+  {
+    "director_id": 225,
+    "movie_id": 101
+  },
+  {
+    "director_id": 226,
+    "movie_id": 241
+  },
+  {
+    "director_id": 227,
+    "movie_id": 176
+  },
+  {
+    "director_id": 227,
+    "movie_id": 185
+  },
+  {
+    "director_id": 227,
+    "movie_id": 186
+  },
+  {
+    "director_id": 227,
+    "movie_id": 275
+  },
+  {
+    "director_id": 227,
+    "movie_id": 286
+  },
+  {
+    "director_id": 227,
+    "movie_id": 290
+  },
+  {
+    "director_id": 227,
+    "movie_id": 298
+  },
+  {
+    "director_id": 228,
+    "movie_id": 985
+  },
+  {
+    "director_id": 229,
+    "movie_id": 396
+  },
+  {
+    "director_id": 229,
+    "movie_id": 784
+  },
+  {
+    "director_id": 230,
+    "movie_id": 755
+  },
+  {
+    "director_id": 230,
+    "movie_id": 884
+  },
+  {
+    "director_id": 231,
+    "movie_id": 142
+  },
+  {
+    "director_id": 232,
+    "movie_id": 203
+  },
+  {
+    "director_id": 232,
+    "movie_id": 218
+  },
+  {
+    "director_id": 232,
+    "movie_id": 636
+  },
+  {
+    "director_id": 232,
+    "movie_id": 775
+  },
+  {
+    "director_id": 233,
+    "movie_id": 98
+  },
+  {
+    "director_id": 233,
+    "movie_id": 356
+  },
+  {
+    "director_id": 233,
+    "movie_id": 490
+  },
+  {
+    "director_id": 234,
+    "movie_id": 402
+  },
+  {
+    "director_id": 235,
+    "movie_id": 670
+  },
+  {
+    "director_id": 236,
+    "movie_id": 161
+  },
+  {
+    "director_id": 237,
+    "movie_id": 701
+  },
+  {
+    "director_id": 238,
+    "movie_id": 740
+  },
+  {
+    "director_id": 239,
+    "movie_id": 745
+  },
+  {
+    "director_id": 240,
+    "movie_id": 878
+  },
+  {
+    "director_id": 241,
+    "movie_id": 898
+  },
+  {
+    "director_id": 242,
+    "movie_id": 339
+  },
+  {
+    "director_id": 243,
+    "movie_id": 667
+  },
+  {
+    "director_id": 243,
+    "movie_id": 675
+  },
+  {
+    "director_id": 244,
+    "movie_id": 466
+  },
+  {
+    "director_id": 245,
+    "movie_id": 353
+  },
+  {
+    "director_id": 246,
+    "movie_id": 86
+  },
+  {
+    "director_id": 247,
+    "movie_id": 151
+  },
+  {
+    "director_id": 248,
+    "movie_id": 566
+  },
+  {
+    "director_id": 249,
+    "movie_id": 358
+  },
+  {
+    "director_id": 249,
+    "movie_id": 635
+  },
+  {
+    "director_id": 250,
+    "movie_id": 899
+  },
+  {
+    "director_id": 251,
+    "movie_id": 794
+  },
+  {
+    "director_id": 252,
+    "movie_id": 131
+  },
+  {
+    "director_id": 253,
+    "movie_id": 168
+  },
+  {
+    "director_id": 253,
+    "movie_id": 226
+  },
+  {
+    "director_id": 253,
+    "movie_id": 235
+  },
+  {
+    "director_id": 253,
+    "movie_id": 497
+  },
+  {
+    "director_id": 253,
+    "movie_id": 506
+  },
+  {
+    "director_id": 253,
+    "movie_id": 692
+  },
+  {
+    "director_id": 253,
+    "movie_id": 760
+  },
+  {
+    "director_id": 253,
+    "movie_id": 966
+  },
+  {
+    "director_id": 254,
+    "movie_id": 224
+  },
+  {
+    "director_id": 254,
+    "movie_id": 983
+  },
+  {
+    "director_id": 255,
+    "movie_id": 914
+  },
+  {
+    "director_id": 256,
+    "movie_id": 982
+  },
+  {
+    "director_id": 257,
+    "movie_id": 625
+  },
+  {
+    "director_id": 258,
+    "movie_id": 126
+  },
+  {
+    "director_id": 258,
+    "movie_id": 127
+  },
+  {
+    "director_id": 259,
+    "movie_id": 812
+  },
+  {
+    "director_id": 260,
+    "movie_id": 349
+  },
+  {
+    "director_id": 261,
+    "movie_id": 207
+  },
+  {
+    "director_id": 261,
+    "movie_id": 481
+  },
+  {
+    "director_id": 262,
+    "movie_id": 933
+  },
+  {
+    "director_id": 263,
+    "movie_id": 54
+  },
+  {
+    "director_id": 264,
+    "movie_id": 765
+  },
+  {
+    "director_id": 265,
+    "movie_id": 363
+  },
+  {
+    "director_id": 265,
+    "movie_id": 605
+  },
+  {
+    "director_id": 265,
+    "movie_id": 778
+  },
+  {
+    "director_id": 266,
+    "movie_id": 113
+  },
+  {
+    "director_id": 266,
+    "movie_id": 425
+  },
+  {
+    "director_id": 267,
+    "movie_id": 412
+  },
+  {
+    "director_id": 268,
+    "movie_id": 803
+  },
+  {
+    "director_id": 269,
+    "movie_id": 960
+  },
+  {
+    "director_id": 270,
+    "movie_id": 373
+  },
+  {
+    "director_id": 270,
+    "movie_id": 805
+  },
+  {
+    "director_id": 270,
+    "movie_id": 949
+  },
+  {
+    "director_id": 271,
+    "movie_id": 409
+  },
+  {
+    "director_id": 272,
+    "movie_id": 135
+  },
+  {
+    "director_id": 272,
+    "movie_id": 332
+  },
+  {
+    "director_id": 273,
+    "movie_id": 904
+  },
+  {
+    "director_id": 274,
+    "movie_id": 259
+  },
+  {
+    "director_id": 275,
+    "movie_id": 300
+  },
+  {
+    "director_id": 275,
+    "movie_id": 707
+  },
+  {
+    "director_id": 276,
+    "movie_id": 274
+  },
+  {
+    "director_id": 276,
+    "movie_id": 541
+  },
+  {
+    "director_id": 277,
+    "movie_id": 578
+  },
+  {
+    "director_id": 278,
+    "movie_id": 813
+  },
+  {
+    "director_id": 279,
+    "movie_id": 163
+  },
+  {
+    "director_id": 280,
+    "movie_id": 212
+  },
+  {
+    "director_id": 280,
+    "movie_id": 762
+  },
+  {
+    "director_id": 281,
+    "movie_id": 551
+  },
+  {
+    "director_id": 281,
+    "movie_id": 994
+  },
+  {
+    "director_id": 282,
+    "movie_id": 368
+  },
+  {
+    "director_id": 282,
+    "movie_id": 379
+  },
+  {
+    "director_id": 282,
+    "movie_id": 390
+  },
+  {
+    "director_id": 282,
+    "movie_id": 892
+  },
+  {
+    "director_id": 283,
+    "movie_id": 56
+  },
+  {
+    "director_id": 284,
+    "movie_id": 177
+  },
+  {
+    "director_id": 285,
+    "movie_id": 376
+  },
+  {
+    "director_id": 286,
+    "movie_id": 816
+  },
+  {
+    "director_id": 287,
+    "movie_id": 535
+  },
+  {
+    "director_id": 287,
+    "movie_id": 698
+  },
+  {
+    "director_id": 288,
+    "movie_id": 742
+  },
+  {
+    "director_id": 289,
+    "movie_id": 121
+  },
+  {
+    "director_id": 289,
+    "movie_id": 548
+  },
+  {
+    "director_id": 290,
+    "movie_id": 772
+  },
+  {
+    "director_id": 291,
+    "movie_id": 786
+  },
+  {
+    "director_id": 292,
+    "movie_id": 521
+  },
+  {
+    "director_id": 292,
+    "movie_id": 783
+  },
+  {
+    "director_id": 293,
+    "movie_id": 222
+  },
+  {
+    "director_id": 293,
+    "movie_id": 335
+  },
+  {
+    "director_id": 294,
+    "movie_id": 255
+  },
+  {
+    "director_id": 294,
+    "movie_id": 355
+  },
+  {
+    "director_id": 294,
+    "movie_id": 944
+  },
+  {
+    "director_id": 295,
+    "movie_id": 216
+  },
+  {
+    "director_id": 296,
+    "movie_id": 699
+  },
+  {
+    "director_id": 297,
+    "movie_id": 181
+  },
+  {
+    "director_id": 298,
+    "movie_id": 233
+  },
+  {
+    "director_id": 298,
+    "movie_id": 905
+  },
+  {
+    "director_id": 299,
+    "movie_id": 505
+  },
+  {
+    "director_id": 299,
+    "movie_id": 620
+  },
+  {
+    "director_id": 300,
+    "movie_id": 337
+  },
+  {
+    "director_id": 300,
+    "movie_id": 883
+  },
+  {
+    "director_id": 301,
+    "movie_id": 348
+  },
+  {
+    "director_id": 302,
+    "movie_id": 724
+  },
+  {
+    "director_id": 303,
+    "movie_id": 957
+  },
+  {
+    "director_id": 304,
+    "movie_id": 29
+  },
+  {
+    "director_id": 304,
+    "movie_id": 819
+  },
+  {
+    "director_id": 305,
+    "movie_id": 767
+  },
+  {
+    "director_id": 306,
+    "movie_id": 153
+  },
+  {
+    "director_id": 307,
+    "movie_id": 236
+  },
+  {
+    "director_id": 308,
+    "movie_id": 85
+  },
+  {
+    "director_id": 308,
+    "movie_id": 99
+  },
+  {
+    "director_id": 308,
+    "movie_id": 752
+  },
+  {
+    "director_id": 308,
+    "movie_id": 792
+  },
+  {
+    "director_id": 309,
+    "movie_id": 140
+  },
+  {
+    "director_id": 309,
+    "movie_id": 154
+  },
+  {
+    "director_id": 310,
+    "movie_id": 20
+  },
+  {
+    "director_id": 310,
+    "movie_id": 240
+  },
+  {
+    "director_id": 310,
+    "movie_id": 608
+  },
+  {
+    "director_id": 311,
+    "movie_id": 117
+  },
+  {
+    "director_id": 311,
+    "movie_id": 305
+  },
+  {
+    "director_id": 311,
+    "movie_id": 431
+  },
+  {
+    "director_id": 311,
+    "movie_id": 453
+  },
+  {
+    "director_id": 312,
+    "movie_id": 377
+  },
+  {
+    "director_id": 313,
+    "movie_id": 622
+  },
+  {
+    "director_id": 314,
+    "movie_id": 665
+  },
+  {
+    "director_id": 315,
+    "movie_id": 533
+  },
+  {
+    "director_id": 316,
+    "movie_id": 391
+  },
+  {
+    "director_id": 317,
+    "movie_id": 679
+  },
+  {
+    "director_id": 318,
+    "movie_id": 638
+  },
+  {
+    "director_id": 319,
+    "movie_id": 627
+  },
+  {
+    "director_id": 320,
+    "movie_id": 398
+  },
+  {
+    "director_id": 320,
+    "movie_id": 780
+  },
+  {
+    "director_id": 321,
+    "movie_id": 840
+  },
+  {
+    "director_id": 322,
+    "movie_id": 591
+  },
+  {
+    "director_id": 323,
+    "movie_id": 621
+  },
+  {
+    "director_id": 323,
+    "movie_id": 632
+  },
+  {
+    "director_id": 324,
+    "movie_id": 3
+  },
+  {
+    "director_id": 324,
+    "movie_id": 9
+  },
+  {
+    "director_id": 324,
+    "movie_id": 22
+  },
+  {
+    "director_id": 324,
+    "movie_id": 37
+  },
+  {
+    "director_id": 324,
+    "movie_id": 64
+  },
+  {
+    "director_id": 324,
+    "movie_id": 70
+  },
+  {
+    "director_id": 324,
+    "movie_id": 156
+  },
+  {
+    "director_id": 324,
+    "movie_id": 574
+  },
+  {
+    "director_id": 325,
+    "movie_id": 249
+  },
+  {
+    "director_id": 326,
+    "movie_id": 640
+  },
+  {
+    "director_id": 327,
+    "movie_id": 936
+  },
+  {
+    "director_id": 328,
+    "movie_id": 160
+  },
+  {
+    "director_id": 328,
+    "movie_id": 217
+  },
+  {
+    "director_id": 328,
+    "movie_id": 374
+  },
+  {
+    "director_id": 328,
+    "movie_id": 758
+  },
+  {
+    "director_id": 328,
+    "movie_id": 967
+  },
+  {
+    "director_id": 329,
+    "movie_id": 777
+  },
+  {
+    "director_id": 330,
+    "movie_id": 666
+  },
+  {
+    "director_id": 331,
+    "movie_id": 170
+  },
+  {
+    "director_id": 331,
+    "movie_id": 252
+  },
+  {
+    "director_id": 331,
+    "movie_id": 257
+  },
+  {
+    "director_id": 332,
+    "movie_id": 511
+  },
+  {
+    "director_id": 333,
+    "movie_id": 885
+  },
+  {
+    "director_id": 334,
+    "movie_id": 192
+  },
+  {
+    "director_id": 334,
+    "movie_id": 457
+  },
+  {
+    "director_id": 334,
+    "movie_id": 693
+  },
+  {
+    "director_id": 334,
+    "movie_id": 711
+  },
+  {
+    "director_id": 334,
+    "movie_id": 874
+  },
+  {
+    "director_id": 335,
+    "movie_id": 463
+  },
+  {
+    "director_id": 336,
+    "movie_id": 943
+  },
+  {
+    "director_id": 337,
+    "movie_id": 87
+  },
+  {
+    "director_id": 338,
+    "movie_id": 907
+  },
+  {
+    "director_id": 339,
+    "movie_id": 748
+  },
+  {
+    "director_id": 340,
+    "movie_id": 612
+  },
+  {
+    "director_id": 341,
+    "movie_id": 46
+  },
+  {
+    "director_id": 341,
+    "movie_id": 250
+  },
+  {
+    "director_id": 341,
+    "movie_id": 598
+  },
+  {
+    "director_id": 342,
+    "movie_id": 732
+  },
+  {
+    "director_id": 343,
+    "movie_id": 722
+  },
+  {
+    "director_id": 344,
+    "movie_id": 382
+  },
+  {
+    "director_id": 345,
+    "movie_id": 741
+  },
+  {
+    "director_id": 346,
+    "movie_id": 424
+  },
+  {
+    "director_id": 346,
+    "movie_id": 832
+  },
+  {
+    "director_id": 347,
+    "movie_id": 399
+  },
+  {
+    "director_id": 348,
+    "movie_id": 864
+  },
+  {
+    "director_id": 349,
+    "movie_id": 77
+  },
+  {
+    "director_id": 350,
+    "movie_id": 615
+  },
+  {
+    "director_id": 350,
+    "movie_id": 753
+  },
+  {
+    "director_id": 351,
+    "movie_id": 435
+  },
+  {
+    "director_id": 352,
+    "movie_id": 651
+  },
+  {
+    "director_id": 353,
+    "movie_id": 563
+  },
+  {
+    "director_id": 353,
+    "movie_id": 704
+  },
+  {
+    "director_id": 354,
+    "movie_id": 245
+  },
+  {
+    "director_id": 354,
+    "movie_id": 344
+  },
+  {
+    "director_id": 354,
+    "movie_id": 734
+  },
+  {
+    "director_id": 354,
+    "movie_id": 939
+  },
+  {
+    "director_id": 355,
+    "movie_id": 1
+  },
+  {
+    "director_id": 355,
+    "movie_id": 26
+  },
+  {
+    "director_id": 356,
+    "movie_id": 393
+  },
+  {
+    "director_id": 356,
+    "movie_id": 663
+  },
+  {
+    "director_id": 357,
+    "movie_id": 725
+  },
+  {
+    "director_id": 358,
+    "movie_id": 606
+  },
+  {
+    "director_id": 359,
+    "movie_id": 875
+  },
+  {
+    "director_id": 360,
+    "movie_id": 41
+  },
+  {
+    "director_id": 360,
+    "movie_id": 743
+  },
+  {
+    "director_id": 361,
+    "movie_id": 655
+  },
+  {
+    "director_id": 361,
+    "movie_id": 932
+  },
+  {
+    "director_id": 362,
+    "movie_id": 631
+  },
+  {
+    "director_id": 363,
+    "movie_id": 695
+  },
+  {
+    "director_id": 364,
+    "movie_id": 471
+  },
+  {
+    "director_id": 364,
+    "movie_id": 474
+  },
+  {
+    "director_id": 364,
+    "movie_id": 476
+  },
+  {
+    "director_id": 365,
+    "movie_id": 559
+  },
+  {
+    "director_id": 366,
+    "movie_id": 180
+  },
+  {
+    "director_id": 366,
+    "movie_id": 866
+  },
+  {
+    "director_id": 367,
+    "movie_id": 67
+  },
+  {
+    "director_id": 367,
+    "movie_id": 243
+  },
+  {
+    "director_id": 368,
+    "movie_id": 204
+  },
+  {
+    "director_id": 369,
+    "movie_id": 359
+  },
+  {
+    "director_id": 370,
+    "movie_id": 462
+  },
+  {
+    "director_id": 371,
+    "movie_id": 687
+  },
+  {
+    "director_id": 372,
+    "movie_id": 306
+  },
+  {
+    "director_id": 372,
+    "movie_id": 448
+  },
+  {
+    "director_id": 372,
+    "movie_id": 555
+  },
+  {
+    "director_id": 373,
+    "movie_id": 887
+  },
+  {
+    "director_id": 374,
+    "movie_id": 781
+  },
+  {
+    "director_id": 375,
+    "movie_id": 334
+  },
+  {
+    "director_id": 375,
+    "movie_id": 345
+  },
+  {
+    "director_id": 376,
+    "movie_id": 818
+  },
+  {
+    "director_id": 376,
+    "movie_id": 990
+  },
+  {
+    "director_id": 377,
+    "movie_id": 487
+  },
+  {
+    "director_id": 378,
+    "movie_id": 331
+  },
+  {
+    "director_id": 379,
+    "movie_id": 913
+  },
+  {
+    "director_id": 380,
+    "movie_id": 273
+  },
+  {
+    "director_id": 380,
+    "movie_id": 677
+  },
+  {
+    "director_id": 380,
+    "movie_id": 988
+  },
+  {
+    "director_id": 381,
+    "movie_id": 926
+  },
+  {
+    "director_id": 382,
+    "movie_id": 303
+  },
+  {
+    "director_id": 382,
+    "movie_id": 433
+  },
+  {
+    "director_id": 382,
+    "movie_id": 436
+  },
+  {
+    "director_id": 382,
+    "movie_id": 444
+  },
+  {
+    "director_id": 382,
+    "movie_id": 539
+  },
+  {
+    "director_id": 383,
+    "movie_id": 443
+  },
+  {
+    "director_id": 384,
+    "movie_id": 776
+  },
+  {
+    "director_id": 385,
+    "movie_id": 820
+  },
+  {
+    "director_id": 386,
+    "movie_id": 311
+  },
+  {
+    "director_id": 386,
+    "movie_id": 865
+  },
+  {
+    "director_id": 387,
+    "movie_id": 475
+  },
+  {
+    "director_id": 388,
+    "movie_id": 971
+  },
+  {
+    "director_id": 389,
+    "movie_id": 855
+  },
+  {
+    "director_id": 389,
+    "movie_id": 992
+  },
+  {
+    "director_id": 390,
+    "movie_id": 935
+  },
+  {
+    "director_id": 391,
+    "movie_id": 733
+  },
+  {
+    "director_id": 392,
+    "movie_id": 39
+  },
+  {
+    "director_id": 392,
+    "movie_id": 284
+  },
+  {
+    "director_id": 392,
+    "movie_id": 426
+  },
+  {
+    "director_id": 392,
+    "movie_id": 846
+  },
+  {
+    "director_id": 392,
+    "movie_id": 860
+  },
+  {
+    "director_id": 393,
+    "movie_id": 769
+  },
+  {
+    "director_id": 394,
+    "movie_id": 842
+  },
+  {
+    "director_id": 395,
+    "movie_id": 133
+  },
+  {
+    "director_id": 395,
+    "movie_id": 495
+  },
+  {
+    "director_id": 396,
+    "movie_id": 489
+  },
+  {
+    "director_id": 397,
+    "movie_id": 292
+  },
+  {
+    "director_id": 398,
+    "movie_id": 18
+  },
+  {
+    "director_id": 398,
+    "movie_id": 108
+  },
+  {
+    "director_id": 399,
+    "movie_id": 269
+  },
+  {
+    "director_id": 399,
+    "movie_id": 401
+  },
+  {
+    "director_id": 400,
+    "movie_id": 202
+  },
+  {
+    "director_id": 401,
+    "movie_id": 727
+  },
+  {
+    "director_id": 402,
+    "movie_id": 419
+  },
+  {
+    "director_id": 402,
+    "movie_id": 427
+  },
+  {
+    "director_id": 402,
+    "movie_id": 543
+  },
+  {
+    "director_id": 403,
+    "movie_id": 703
+  },
+  {
+    "director_id": 404,
+    "movie_id": 483
+  },
+  {
+    "director_id": 404,
+    "movie_id": 512
+  },
+  {
+    "director_id": 405,
+    "movie_id": 50
+  },
+  {
+    "director_id": 405,
+    "movie_id": 82
+  },
+  {
+    "director_id": 405,
+    "movie_id": 119
+  },
+  {
+    "director_id": 405,
+    "movie_id": 120
+  },
+  {
+    "director_id": 405,
+    "movie_id": 188
+  },
+  {
+    "director_id": 405,
+    "movie_id": 313
+  },
+  {
+    "director_id": 405,
+    "movie_id": 451
+  },
+  {
+    "director_id": 405,
+    "movie_id": 557
+  },
+  {
+    "director_id": 405,
+    "movie_id": 560
+  },
+  {
+    "director_id": 405,
+    "movie_id": 713
+  },
+  {
+    "director_id": 405,
+    "movie_id": 715
+  },
+  {
+    "director_id": 405,
+    "movie_id": 863
+  },
+  {
+    "director_id": 405,
+    "movie_id": 999
+  },
+  {
+    "director_id": 405,
+    "movie_id": 1000
+  },
+  {
+    "director_id": 406,
+    "movie_id": 484
+  },
+  {
+    "director_id": 406,
+    "movie_id": 611
+  },
+  {
+    "director_id": 406,
+    "movie_id": 959
+  },
+  {
+    "director_id": 407,
+    "movie_id": 428
+  },
+  {
+    "director_id": 407,
+    "movie_id": 429
+  },
+  {
+    "director_id": 408,
+    "movie_id": 199
+  },
+  {
+    "director_id": 408,
+    "movie_id": 900
+  },
+  {
+    "director_id": 409,
+    "movie_id": 8
+  },
+  {
+    "director_id": 409,
+    "movie_id": 25
+  },
+  {
+    "director_id": 409,
+    "movie_id": 73
+  },
+  {
+    "director_id": 409,
+    "movie_id": 169
+  },
+  {
+    "director_id": 409,
+    "movie_id": 244
+  },
+  {
+    "director_id": 409,
+    "movie_id": 263
+  },
+  {
+    "director_id": 409,
+    "movie_id": 416
+  },
+  {
+    "director_id": 409,
+    "movie_id": 683
+  },
+  {
+    "director_id": 409,
+    "movie_id": 689
+  },
+  {
+    "director_id": 409,
+    "movie_id": 833
+  },
+  {
+    "director_id": 409,
+    "movie_id": 891
+  },
+  {
+    "director_id": 409,
+    "movie_id": 952
+  },
+  {
+    "director_id": 409,
+    "movie_id": 989
+  },
+  {
+    "director_id": 410,
+    "movie_id": 19
+  },
+  {
+    "director_id": 411,
+    "movie_id": 984
+  },
+  {
+    "director_id": 412,
+    "movie_id": 15
+  },
+  {
+    "director_id": 413,
+    "movie_id": 51
+  },
+  {
+    "director_id": 413,
+    "movie_id": 565
+  },
+  {
+    "director_id": 414,
+    "movie_id": 381
+  },
+  {
+    "director_id": 414,
+    "movie_id": 385
+  },
+  {
+    "director_id": 414,
+    "movie_id": 657
+  },
+  {
+    "director_id": 415,
+    "movie_id": 434
+  },
+  {
+    "director_id": 415,
+    "movie_id": 709
+  },
+  {
+    "director_id": 416,
+    "movie_id": 520
+  },
+  {
+    "director_id": 417,
+    "movie_id": 708
+  },
+  {
+    "director_id": 418,
+    "movie_id": 652
+  },
+  {
+    "director_id": 419,
+    "movie_id": 16
+  },
+  {
+    "director_id": 419,
+    "movie_id": 38
+  },
+  {
+    "director_id": 419,
+    "movie_id": 112
+  },
+  {
+    "director_id": 419,
+    "movie_id": 146
+  },
+  {
+    "director_id": 419,
+    "movie_id": 148
+  },
+  {
+    "director_id": 419,
+    "movie_id": 166
+  },
+  {
+    "director_id": 419,
+    "movie_id": 174
+  },
+  {
+    "director_id": 419,
+    "movie_id": 485
+  },
+  {
+    "director_id": 419,
+    "movie_id": 688
+  },
+  {
+    "director_id": 419,
+    "movie_id": 837
+  },
+  {
+    "director_id": 420,
+    "movie_id": 579
+  },
+  {
+    "director_id": 421,
+    "movie_id": 473
+  },
+  {
+    "director_id": 421,
+    "movie_id": 618
+  },
+  {
+    "director_id": 422,
+    "movie_id": 924
+  },
+  {
+    "director_id": 423,
+    "movie_id": 925
+  },
+  {
+    "director_id": 424,
+    "movie_id": 449
+  },
+  {
+    "director_id": 424,
+    "movie_id": 869
+  },
+  {
+    "director_id": 425,
+    "movie_id": 237
+  },
+  {
+    "director_id": 426,
+    "movie_id": 323
+  },
+  {
+    "director_id": 427,
+    "movie_id": 728
+  },
+  {
+    "director_id": 428,
+    "movie_id": 360
+  },
+  {
+    "director_id": 428,
+    "movie_id": 501
+  },
+  {
+    "director_id": 429,
+    "movie_id": 779
+  },
+  {
+    "director_id": 430,
+    "movie_id": 167
+  },
+  {
+    "director_id": 431,
+    "movie_id": 515
+  },
+  {
+    "director_id": 432,
+    "movie_id": 736
+  },
+  {
+    "director_id": 433,
+    "movie_id": 139
+  },
+  {
+    "director_id": 434,
+    "movie_id": 196
+  },
+  {
+    "director_id": 435,
+    "movie_id": 270
+  },
+  {
+    "director_id": 435,
+    "movie_id": 408
+  },
+  {
+    "director_id": 436,
+    "movie_id": 895
+  },
+  {
+    "director_id": 437,
+    "movie_id": 513
+  },
+  {
+    "director_id": 438,
+    "movie_id": 919
+  },
+  {
+    "director_id": 439,
+    "movie_id": 856
+  },
+  {
+    "director_id": 440,
+    "movie_id": 637
+  },
+  {
+    "director_id": 441,
+    "movie_id": 593
+  },
+  {
+    "director_id": 442,
+    "movie_id": 209
+  },
+  {
+    "director_id": 443,
+    "movie_id": 461
+  },
+  {
+    "director_id": 444,
+    "movie_id": 229
+  },
+  {
+    "director_id": 444,
+    "movie_id": 659
+  },
+  {
+    "director_id": 445,
+    "movie_id": 723
+  },
+  {
+    "director_id": 446,
+    "movie_id": 10
+  },
+  {
+    "director_id": 446,
+    "movie_id": 28
+  },
+  {
+    "director_id": 446,
+    "movie_id": 211
+  },
+  {
+    "director_id": 446,
+    "movie_id": 604
+  },
+  {
+    "director_id": 446,
+    "movie_id": 629
+  },
+  {
+    "director_id": 446,
+    "movie_id": 656
+  },
+  {
+    "director_id": 446,
+    "movie_id": 749
+  },
+  {
+    "director_id": 446,
+    "movie_id": 768
+  },
+  {
+    "director_id": 447,
+    "movie_id": 310
+  },
+  {
+    "director_id": 448,
+    "movie_id": 366
+  },
+  {
+    "director_id": 449,
+    "movie_id": 340
+  },
+  {
+    "director_id": 449,
+    "movie_id": 888
+  },
+  {
+    "director_id": 450,
+    "movie_id": 12
+  },
+  {
+    "director_id": 450,
+    "movie_id": 48
+  },
+  {
+    "director_id": 450,
+    "movie_id": 648
+  },
+  {
+    "director_id": 450,
+    "movie_id": 676
+  },
+  {
+    "director_id": 450,
+    "movie_id": 829
+  },
+  {
+    "director_id": 451,
+    "movie_id": 735
+  },
+  {
+    "director_id": 452,
+    "movie_id": 509
+  },
+  {
+    "director_id": 452,
+    "movie_id": 647
+  },
+  {
+    "director_id": 452,
+    "movie_id": 912
+  },
+  {
+    "director_id": 453,
+    "movie_id": 62
+  },
+  {
+    "director_id": 453,
+    "movie_id": 152
+  },
+  {
+    "director_id": 454,
+    "movie_id": 796
+  },
+  {
+    "director_id": 455,
+    "movie_id": 320
+  },
+  {
+    "director_id": 455,
+    "movie_id": 569
+  },
+  {
+    "director_id": 456,
+    "movie_id": 100
+  },
+  {
+    "director_id": 457,
+    "movie_id": 510
+  },
+  {
+    "director_id": 458,
+    "movie_id": 232
+  },
+  {
+    "director_id": 459,
+    "movie_id": 603
+  },
+  {
+    "director_id": 460,
+    "movie_id": 183
+  },
+  {
+    "director_id": 460,
+    "movie_id": 299
+  },
+  {
+    "director_id": 460,
+    "movie_id": 702
+  },
+  {
+    "director_id": 461,
+    "movie_id": 164
+  },
+  {
+    "director_id": 462,
+    "movie_id": 32
+  },
+  {
+    "director_id": 462,
+    "movie_id": 78
+  },
+  {
+    "director_id": 462,
+    "movie_id": 122
+  },
+  {
+    "director_id": 462,
+    "movie_id": 173
+  },
+  {
+    "director_id": 462,
+    "movie_id": 182
+  },
+  {
+    "director_id": 462,
+    "movie_id": 190
+  },
+  {
+    "director_id": 462,
+    "movie_id": 295
+  },
+  {
+    "director_id": 462,
+    "movie_id": 302
+  },
+  {
+    "director_id": 462,
+    "movie_id": 304
+  },
+  {
+    "director_id": 462,
+    "movie_id": 413
+  },
+  {
+    "director_id": 463,
+    "movie_id": 187
+  },
+  {
+    "director_id": 464,
+    "movie_id": 973
+  },
+  {
+    "director_id": 465,
+    "movie_id": 44
+  },
+  {
+    "director_id": 466,
+    "movie_id": 362
+  },
+  {
+    "director_id": 466,
+    "movie_id": 674
+  },
+  {
+    "director_id": 466,
+    "movie_id": 785
+  },
+  {
+    "director_id": 467,
+    "movie_id": 43
+  },
+  {
+    "director_id": 467,
+    "movie_id": 808
+  },
+  {
+    "director_id": 468,
+    "movie_id": 450
+  },
+  {
+    "director_id": 469,
+    "movie_id": 633
+  },
+  {
+    "director_id": 470,
+    "movie_id": 811
+  },
+  {
+    "director_id": 471,
+    "movie_id": 649
+  },
+  {
+    "director_id": 472,
+    "movie_id": 90
+  },
+  {
+    "director_id": 472,
+    "movie_id": 350
+  },
+  {
+    "director_id": 472,
+    "movie_id": 573
+  },
+  {
+    "director_id": 472,
+    "movie_id": 589
+  },
+  {
+    "director_id": 473,
+    "movie_id": 993
+  },
+  {
+    "director_id": 474,
+    "movie_id": 430
+  },
+  {
+    "director_id": 474,
+    "movie_id": 873
+  },
+  {
+    "director_id": 475,
+    "movie_id": 96
+  },
+  {
+    "director_id": 475,
+    "movie_id": 937
+  },
+  {
+    "director_id": 476,
+    "movie_id": 125
+  },
+  {
+    "director_id": 476,
+    "movie_id": 439
+  },
+  {
+    "director_id": 477,
+    "movie_id": 662
+  },
+  {
+    "director_id": 478,
+    "movie_id": 602
+  },
+  {
+    "director_id": 479,
+    "movie_id": 102
+  },
+  {
+    "director_id": 479,
+    "movie_id": 517
+  },
+  {
+    "director_id": 480,
+    "movie_id": 641
+  },
+  {
+    "director_id": 481,
+    "movie_id": 770
+  },
+  {
+    "director_id": 482,
+    "movie_id": 537
+  },
+  {
+    "director_id": 483,
+    "movie_id": 582
+  },
+  {
+    "director_id": 484,
+    "movie_id": 227
+  },
+  {
+    "director_id": 484,
+    "movie_id": 756
+  },
+  {
+    "director_id": 484,
+    "movie_id": 928
+  },
+  {
+    "director_id": 485,
+    "movie_id": 296
+  },
+  {
+    "director_id": 485,
+    "movie_id": 458
+  },
+  {
+    "director_id": 485,
+    "movie_id": 554
+  },
+  {
+    "director_id": 485,
+    "movie_id": 714
+  },
+  {
+    "director_id": 485,
+    "movie_id": 872
+  },
+  {
+    "director_id": 486,
+    "movie_id": 862
+  },
+  {
+    "director_id": 487,
+    "movie_id": 576
+  },
+  {
+    "director_id": 488,
+    "movie_id": 532
+  },
+  {
+    "director_id": 489,
+    "movie_id": 309
+  },
+  {
+    "director_id": 490,
+    "movie_id": 144
+  },
+  {
+    "director_id": 491,
+    "movie_id": 549
+  },
+  {
+    "director_id": 492,
+    "movie_id": 468
+  },
+  {
+    "director_id": 493,
+    "movie_id": 817
+  },
+  {
+    "director_id": 494,
+    "movie_id": 507
+  },
+  {
+    "director_id": 494,
+    "movie_id": 514
+  },
+  {
+    "director_id": 494,
+    "movie_id": 721
+  },
+  {
+    "director_id": 494,
+    "movie_id": 746
+  },
+  {
+    "director_id": 494,
+    "movie_id": 814
+  },
+  {
+    "director_id": 494,
+    "movie_id": 947
+  },
+  {
+    "director_id": 495,
+    "movie_id": 954
+  },
+  {
+    "director_id": 496,
+    "movie_id": 668
+  },
+  {
+    "director_id": 496,
+    "movie_id": 681
+  },
+  {
+    "director_id": 496,
+    "movie_id": 965
+  },
+  {
+    "director_id": 497,
+    "movie_id": 80
+  },
+  {
+    "director_id": 497,
+    "movie_id": 83
+  },
+  {
+    "director_id": 497,
+    "movie_id": 118
+  },
+  {
+    "director_id": 497,
+    "movie_id": 124
+  },
+  {
+    "director_id": 497,
+    "movie_id": 184
+  },
+  {
+    "director_id": 497,
+    "movie_id": 308
+  },
+  {
+    "director_id": 497,
+    "movie_id": 446
+  },
+  {
+    "director_id": 497,
+    "movie_id": 562
+  },
+  {
+    "director_id": 497,
+    "movie_id": 871
+  },
+  {
+    "director_id": 498,
+    "movie_id": 315
+  },
+  {
+    "director_id": 498,
+    "movie_id": 459
+  },
+  {
+    "director_id": 499,
+    "movie_id": 106
+  },
+  {
+    "director_id": 500,
+    "movie_id": 318
+  },
+  {
+    "director_id": 501,
+    "movie_id": 680
+  },
+  {
+    "director_id": 501,
+    "movie_id": 684
+  },
+  {
+    "director_id": 501,
+    "movie_id": 979
+  },
+  {
+    "director_id": 502,
+    "movie_id": 35
+  },
+  {
+    "director_id": 502,
+    "movie_id": 328
+  },
+  {
+    "director_id": 503,
+    "movie_id": 197
+  },
+  {
+    "director_id": 504,
+    "movie_id": 996
+  },
+  {
+    "director_id": 505,
+    "movie_id": 40
+  },
+  {
+    "director_id": 505,
+    "movie_id": 76
+  },
+  {
+    "director_id": 505,
+    "movie_id": 276
+  },
+  {
+    "director_id": 505,
+    "movie_id": 330
+  },
+  {
+    "director_id": 505,
+    "movie_id": 623
+  },
+  {
+    "director_id": 505,
+    "movie_id": 791
+  },
+  {
+    "director_id": 506,
+    "movie_id": 228
+  },
+  {
+    "director_id": 507,
+    "movie_id": 172
+  },
+  {
+    "director_id": 507,
+    "movie_id": 678
+  },
+  {
+    "director_id": 507,
+    "movie_id": 964
+  },
+  {
+    "director_id": 508,
+    "movie_id": 365
+  },
+  {
+    "director_id": 509,
+    "movie_id": 55
+  },
+  {
+    "director_id": 510,
+    "movie_id": 730
+  },
+  {
+    "director_id": 511,
+    "movie_id": 69
+  },
+  {
+    "director_id": 511,
+    "movie_id": 200
+  },
+  {
+    "director_id": 511,
+    "movie_id": 642
+  },
+  {
+    "director_id": 511,
+    "movie_id": 940
+  },
+  {
+    "director_id": 512,
+    "movie_id": 378
+  },
+  {
+    "director_id": 512,
+    "movie_id": 525
+  },
+  {
+    "director_id": 512,
+    "movie_id": 658
+  },
+  {
+    "director_id": 513,
+    "movie_id": 364
+  },
+  {
+    "director_id": 513,
+    "movie_id": 372
+  },
+  {
+    "director_id": 514,
+    "movie_id": 175
+  },
+  {
+    "director_id": 514,
+    "movie_id": 283
+  },
+  {
+    "director_id": 514,
+    "movie_id": 287
+  },
+  {
+    "director_id": 514,
+    "movie_id": 291
+  },
+  {
+    "director_id": 514,
+    "movie_id": 297
+  },
+  {
+    "director_id": 515,
+    "movie_id": 272
+  },
+  {
+    "director_id": 515,
+    "movie_id": 845
+  },
+  {
+    "director_id": 516,
+    "movie_id": 404
+  },
+  {
+    "director_id": 516,
+    "movie_id": 821
+  },
+  {
+    "director_id": 516,
+    "movie_id": 922
+  },
+  {
+    "director_id": 516,
+    "movie_id": 942
+  },
+  {
+    "director_id": 517,
+    "movie_id": 861
+  },
+  {
+    "director_id": 518,
+    "movie_id": 47
+  },
+  {
+    "director_id": 518,
+    "movie_id": 333
+  },
+  {
+    "director_id": 518,
+    "movie_id": 972
+  },
+  {
+    "director_id": 519,
+    "movie_id": 997
+  },
+  {
+    "director_id": 520,
+    "movie_id": 392
+  },
+  {
+    "director_id": 521,
+    "movie_id": 52
+  },
+  {
+    "director_id": 521,
+    "movie_id": 53
+  },
+  {
+    "director_id": 521,
+    "movie_id": 84
+  },
+  {
+    "director_id": 521,
+    "movie_id": 128
+  },
+  {
+    "director_id": 521,
+    "movie_id": 194
+  },
+  {
+    "director_id": 521,
+    "movie_id": 319
+  },
+  {
+    "director_id": 522,
+    "movie_id": 592
+  },
+  {
+    "director_id": 523,
+    "movie_id": 42
+  },
+  {
+    "director_id": 523,
+    "movie_id": 343
+  },
+  {
+    "director_id": 523,
+    "movie_id": 480
+  },
+  {
+    "director_id": 524,
+    "movie_id": 132
+  },
+  {
+    "director_id": 525,
+    "movie_id": 795
+  },
+  {
+    "director_id": 526,
+    "movie_id": 824
+  },
+  {
+    "director_id": 527,
+    "movie_id": 420
+  },
+  {
+    "director_id": 527,
+    "movie_id": 853
+  },
+  {
+    "director_id": 528,
+    "movie_id": 572
+  },
+  {
+    "director_id": 529,
+    "movie_id": 577
+  },
+  {
+    "director_id": 530,
+    "movie_id": 178
+  },
+  {
+    "director_id": 531,
+    "movie_id": 452
+  },
+  {
+    "director_id": 532,
+    "movie_id": 405
+  },
+  {
+    "director_id": 532,
+    "movie_id": 961
+  },
+  {
+    "director_id": 533,
+    "movie_id": 737
+  },
+  {
+    "director_id": 534,
+    "movie_id": 307
+  },
+  {
+    "director_id": 534,
+    "movie_id": 445
+  },
+  {
+    "director_id": 535,
+    "movie_id": 586
+  },
+  {
+    "director_id": 536,
+    "movie_id": 66
+  },
+  {
+    "director_id": 537,
+    "movie_id": 219
+  },
+  {
+    "director_id": 537,
+    "movie_id": 917
+  },
+  {
+    "director_id": 537,
+    "movie_id": 938
+  },
+  {
+    "director_id": 538,
+    "movie_id": 595
+  },
+  {
+    "director_id": 539,
+    "movie_id": 288
+  },
+  {
+    "director_id": 540,
+    "movie_id": 590
+  },
+  {
+    "director_id": 541,
+    "movie_id": 57
+  },
+  {
+    "director_id": 542,
+    "movie_id": 660
+  },
+  {
+    "director_id": 543,
+    "movie_id": 27
+  },
+  {
+    "director_id": 544,
+    "movie_id": 645
+  },
+  {
+    "director_id": 545,
+    "movie_id": 93
+  },
+  {
+    "director_id": 546,
+    "movie_id": 754
+  },
+  {
+    "director_id": 546,
+    "movie_id": 923
+  },
+  {
+    "director_id": 547,
+    "movie_id": 440
+  },
+  {
+    "director_id": 548,
+    "movie_id": 706
+  }
+]
